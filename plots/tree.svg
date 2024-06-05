@@ -1,0 +1,1475 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAA/4AAsAAAAAFIwAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABgAAAAFYAAABgf2p6EmNtYXAAAAJQAAAAbQAAAJQQKRRhZ2FzcAAAD+wAAAAMAAAADAAEAAdnbHlmAAADQAAAC8gAAA/M4g8uP2hlYWQAAAEIAAAANgAAADYIOAtcaGhlYQAAAUAAAAAgAAAAJAw7At5obXR4AAAB2AAAAHYAAACAFokTamxvY2EAAALAAAAAgAAAAICLmY/TbWF4cAAAAWAAAAAdAAAAIABJAF1uYW1lAAAPCAAAAMsAAAFoHBo1AHBvc3QAAA/UAAAAFgAAACD/aQBnAAEAAAABAAC2JJSVXw889QALCAAAAAAAwcfpVAAAAADihdjV//D+FATbBiEAAAAJAAIAAAAAAAB4nGNgZGBgz/0ny8DAcvb/h/+fWG4zAEVQACMAq7MHI3icY2BkYGCwZzBnYGZQYWBhAPEQgImBEQAP4ACnAAAAeJxjYGY5yziBgZWBg3UWqzEDA6MchGa+wJDG+ImBgYmbjZOZg4WJiQXIZmZAAoaOwc4MDgwGLP5s8v9EGFrYcxkfKzAwzgfJsXixbgNSCgwMAE/jDGsAAHicYznLcJBhMsNDhnkMzQy2DGsYZjH0M8xhmPX/A0M7UGwNQydDK5CfxrCA4ShQ5DrDHoYYILsYKNfJyMFwmqEbyAv6/4chgSGIYRujF+MioPpiIGxn2ABkLQDC6wzyQP4CMAaZmMAwAwgLGW4CRZ4DABQEJvgAAHicY2BgYGJgYGAGYhEgyQimWRgagLQMgwBQhIfBkiGeoYrhJcNnhm8sBixGLKYsjizuLD4s/v//A1UZAGUTUWQtWVxZvEGy/y/+X/N/9X/7/2b/TX7//v3r94/f335//v3h9zuwPTgBADV0JpEAAAAAAAAAACsAQgBqAJ8AxADuASQBNwF3Aa0BuwHvAh8CRQJ2AqICxwMVAzUDWAN/A6ADtwPnBAUELgRfBJAErgTdBQAFHwU6BWoFiQWyBckF4wX2BgEGDAYXBh8GUQZZBnQGfwaZBrcG4wb8BwQHFgceByYHLgdGB2QHigeqB80H5nicZVcNVFRlGr7vd+/cGRFlhplhRCq8TMMcl1yVYZjFgnK1liUt46AZh2xSHH/omELpIZaQOIhIZggiq2SILuvqhMjSPf6QpeRfpMQK61+Jrr8kqZm1KnM/9v3ujGjtOcyduffc9/me93nf9/k+OMJV9PcKCZqj3CDOzHGaKGLQS7GhBr2NXYiV3YeSzEu90HH1BxpTsWJFRXlJiQmKYAG5SfNphRKyHsIhEZ6EcNpDW+l+epXjgDvPceQXjcwFcZxkNcS5RK3WDg7yS6POnlrxOhRU8eXv3Ih5LjcPYvDtDRwnjNK0cRZ8W3JCfLwzLtoapbXHO2LDzCZRC2ZJGOVbBDNa/1LwRu0GzxeX959bfJVeIY01kN/V8e6iotIl3s5/Lrl3j3bpEK8Ic4pEvCikYhYMJkGKsjvDHCMwN6vTEfsbeCLDPNpL+26V7zwEM2lRcXFt4/LspvqMPXePXdnME3E0Pd7W8+JWN0hA1lbne5bk5lcd/NuK3RzhEpG5R7MX8wzFtawGqwH5OwwOyRBntCJxwdPVqGSQ6pYumjdk0OPxdDYk052Q/DF/wjcGMhuB87yg1DLFvCpnmRvGca4AV6RolMwSjzwFs0mwRnk/PAlT6JZXPkh3kSal157l+RfwtLfv3JNeN4yD6OEJpLGevmq6dOj7fiwAtw4xHaiDmZOYEpg04R3+rLG0HCu1kUkhmk1hKAt/4E+vnTsfFPxaZ+t3P7adpgopmEtKCwq8dUUFqzQ71w+jl+mxrdePXaR34SWI49N9weU1dXOrv2tE/qtQiSeRv4g1BMkpmQFeIA5lKO9VujT6+vJ7ZziO52qQ0VjsNiP3GDcSOWFeojUq2qm3RTvj/Mw0/vIwTha8SGq57MQHTl/7yVsw/FpP086L1HP13QXz82e9QcG0fM27a3mxtufTb9t3Ayxf3b3xs711l11zts+eP392ev6J3K9vFr2dXpbyf4poUOfYUKwTYxAX6ohlikTxqhZ+DqCbMIsp4u7cj4p8C6AUzgOmSG3x0g9ITTgMh9itvd9cBB3dSjt89fxP5TWb5qw924Cp9d+kLcKZ/mTMmmOCCGf6zMI12vI+41GCPIgwAzseeUh2qxhQweWMG+hMA68VUQBGhi+w6SbXLd20C2jb7YpPn/5yz4W25rovNx+u2F79+vPe9TBJr322N7XU3fCFoifhWl3WgqZNlbjOBlxnomjC7nyE42xWrdXgMJi0rAf8482SVVtNhLRgW7Gs02WdOHLp8uH2nLJq0NPr65eVlYkmuvyl8s20i96mt+hx8uSFfVAPG1rud60N8zDijTbayqBiXWbROgKl5KRYwZZUtZiuhHkfbV7WSvvpRYgCbZNg3ZBAZ9H5SbWJYAU9+kc006QUsUarXB9lXEW/+ThiLY5oJ9K28qwm6grxfKFuUQfjeeyt4GC5wlpWTW9CaHVxxd8hBoJhKIyqLZSg+W4v3Bt5YR9NpzN3sBWKcYVkZGvgwlhNQv1c2SBwKIjZJumlEUKy754OprRurz/4Mz0NIRc6FR8lifQm/YEQWjqp9nlcQoQgcNHb3VYYy1Sowd5PFyOZg4KkeoBN7WaLVm1kdC8TzZNpKyQ2dxTmjZw7J286FPP7fE/z+xZI7n0N1lWPZObMZfPhoSbBgwwf557g4tnMasPUCbGzRmBNgaXCXnWpH//IWPhY1jRmE7CLNAJVEjxfju/a64rM3LinYafSdvrCTXfxK56uA9OeWdd9/jw823IZQqAsU0hZFDF16cbPxT9MTlu3ipZsLO8cNzpr4RTbttnyAZPScvnGrQs0+GBD9/RElmUtc2msjwE71qDHShhYN7Fmwp/8kuv0qCzrgub0QDFpBYFmK4ewc2I/3ELfVBxM/QMY7xCHcjrVK2PVvJxxRptTMmjMKBnJnf90TFYI/Qlawe1bDdPFodnjEnKyFa85z/esKS/PpE4ONfHTEEXLdguGwkDAqc6sgWExWHIlK2s+DVq2/u0imkHS/3NsM2Ll5GTfGbnOnj1bSDDn9Y1vbsWcTiAnbHBuKGK5wAHYj1o1LR4KSqDsLA0lQV10WmFzs56MrIZSalPK4U4qTRdNSjztRgQcAyEGEQYhwoNUTPS2mkU5TNcUm9+5l6fSBy4D387B+o5gGvptDpfTB74dFjaZFkdg/DucSS+/uDE/LbmuICJowrJNseKkVUvfIq2rs+tblTom8sc3lENCSuUWWd51EkUO1Ajx9Q/XyPJwiSoiflUiFq0WiHA5OB3TMXYwm2ZNYCrY1c6GDj9k5knaAyGXT0MYvX4O4ulh2mZC2QTQwhj6Fc73f+mxtbAZaqmbZjD3wW6eiIiBiQ57kGPAfcwP2w8OcoRuQefD9lNdXFYo0RgxHknet5/MkX7/aVQ9A1cYfX8FcLjQJvC08cA7jA95Rq4uokIODvYbB1vB7xm8XHn3K+gaWTjgHUrNgGkA6FBRq19R0EY/VCi2K1vH5s3etEOuDNNNaihYLIytH7Vru9IopBxZ4mET0xZw+cjAns42svtTy7DYFhfmH/C2fTvAOHNHT273gYPbnpJLe2fLx8u+//edsfXT6hLSnnm5fNby9SlrkosT/zx+8po3qrYhehlD17zJqmVjlmtgvmN0GPDIYMBdg/e99w6toj/D4MnzQKYpX7xatWIETCf5M8ZCJD1TqhS1qlONKKOEFHWqcR9iMA6DXp0mnIJ1EUHzLtFcuXdjpYzmWk6OKonUt6uTjOuTWXQqqpOL0YPZru8whqEuRiOO0S3qbrk5NUTUzrjxGXULKcpbV2Y8AeHkfQyDfh9GdWBUOEbxvJX9+WNdxoFvnh9VNFEcX/JZd93MKIsYaSveVxAzTIx81LPhPEmDFNrEhFbO727f9Qn5o7K3ddOttSTSz8qN+PP9rIANtTrX+Efpknbcgazt9G346Bh27JF24iAW6oF1So9yFJrpJJYT9hTLCfcITCVAB9gObVdtxuVKbQExVStaJmBytglNH01LTUpxZ/1uHPLJPjp1YTOmaW/YbigPTs2sYnyQlGBCxEH+8616OsI9wVdHKpWVfIySS/6az08sXe3rwJ6GFE0wX6g5hQ4X8sDhpPtOt9XtdsMJvGhOeebM8bAPJlknnOJjRAljOIh3Ocyi1gp1M6acWVibK9wu3mL+ZBnX3+/f/0SJRLNuxpOaPZU9VedefTrc/3TKwFPNqYGn0XfZ08C5hYhcMMf2KxxCIQ0zC+ZM7ISBp23WzZIB7cIEBvXsZmXfbAz5SaDr/IZyQKFIcYJtWfYp2gJJ9L2l5DmttXvNFiGFXjsAz9ATyWkraRLd0pyRPMBaXZOxvu9x/uoatMBG3ohHb5g0hGh6vEEK7cE6ZPr46j6ZlECIDzsBUfy7lwXz+b2aT5KNC/h/FWIFMfdgLeI3//Kzyo8k/qryXXMzYv2oHCCjlOP46xqLiey/JegxJkT930YiJNAYoUZJ0MvUa2tqTnrM/MibJY+Ter6RGuno4CIRzsBtjM1hJwWMHabGilpRi70fbWerYuPHu1irCelrdeFhQ7pKunRPrT1+InyMZkzQ4DPtfGFE5tRo7JWS8PO+AiSzcPLnQ5rsUaTyt5pI7LRkYAcRmEYkWVa6ZZQ2AQ71ydBDLfja/fqqqg7/lapaf1YMAKbJ/EqMFlL6ZL4RYwJ+jjERHMMInP7wfqh6H5g7vLeqmNW0SKgJsLKqtNjHIdQ0+rwy3JFraRHkCym+KXyjbwp7H+Nt+D7zWmZhLjUR9WhsgBeObvuHLH96uHY3JuNpyIEulk7B9jKoZ524KKCsDqNNrJrM9dlyBofafUjAAaHL4GOaQc9uXEEXv0/219WREnqEMh/ZTLd401NpKCIQ7hRiTQxg4YluAMnfx7AKzLjFZdAEGfdQxPk1BttJMT5InQojUxNUy1cltRkkdH0HJBwE6/dffwKXZHoBHqWnjl+HoxPuVHkxpcZ14PHuRjWu4ExfEi2qegSPfXZHGHaZi79koqtavUFbdWlL9htEC91fudUzdQ/3P9gg6tV4nH2OQQ7BUBRFD4qYWICB/AUgisRYSIxMSAzMqqSaSCvFgAVYgU3YiQVZgNvvS4ykuc1979133geqrChR8GrATvr4Ak1VH1+kzs35EgPuzns/mTItns5XaPBiQkwknaQrWzYYKVAdyIWkHLiQ2dROXcND6tHVNxTNMFUm1XSvbcNYPtNO/g8sNSWhozuZXGz5C00SjnIzO02ZazfiLEag3EizUJ1E6a1qQ1v6T1ja5NHdM/i6mb/RsBY3Fnljuz79H9KX4yhvK1I1NwB4nGNgZgCD/2kMaUCKkQENAAAp/gHQAAAAAAACAAUAAv//AAM=")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<text transform="translate(603,1739)" font-size="115" style="fill:rgb(71, 19, 101)">deforestation</text>
+<text transform="translate(680,576)" font-size="93" style="fill:rgb(34, 168, 132)">orangutans</text>
+<text transform="translate(924,1668) rotate(-90)" font-size="88" style="fill:rgb(39, 127, 142)">palmoilkills</text>
+<text transform="translate(1145,1053)" font-size="85" style="fill:rgb(67, 62, 133)">indonesia</text>
+<text transform="translate(842,655)" font-size="74" style="fill:rgb(70, 10, 93)">killerpalm</text>
+<text transform="translate(925,1636)" font-size="72" style="fill:rgb(115, 208, 86)">sustainable</text>
+<text transform="translate(809,787)" font-size="70" style="fill:rgb(39, 128, 142)">malaysia</text>
+<text transform="translate(473,263)" font-size="67" style="fill:rgb(197, 224, 33)">rspo</text>
+<text transform="translate(455,647)" font-size="63" style="fill:rgb(194, 223, 35)">orangutan</text>
+<text transform="translate(715,1773)" font-size="48" style="fill:rgb(162, 218, 55)">saveorangutans</text>
+<text transform="translate(892,497)" font-size="48" style="fill:rgb(132, 212, 75)">choosesustainable</text>
+<text transform="translate(503,331)" font-size="45" style="fill:rgb(99, 203, 95)">palmoilfree</text>
+<text transform="translate(1164,1790)" font-size="43" style="fill:rgb(72, 38, 119)">deforestationfree</text>
+<text transform="translate(1114,956)" font-size="43" style="fill:rgb(72, 20, 103)">rainforest</text>
+<text transform="translate(842,709)" font-size="42" style="fill:rgb(61, 78, 138)">environment</text>
+<text transform="translate(1341,1579) rotate(-90)" font-size="42" style="fill:rgb(88, 199, 101)">sustainability</text>
+<text transform="translate(1062,1085)" font-size="35" style="fill:rgb(101, 203, 94)">dropdirtypalmoil</text>
+<text transform="translate(952,1477) rotate(-90)" font-size="35" style="fill:rgb(66, 190, 113)">conflictpalmoil</text>
+<text transform="translate(560,363)" font-size="34" style="fill:rgb(50, 101, 142)">nodeforestation</text>
+<text transform="translate(623,513)" font-size="34" style="fill:rgb(59, 187, 117)">rainforests</text>
+<text transform="translate(949,1141) rotate(-90)" font-size="32" style="fill:rgb(53, 183, 121)">palmoilalarmcall</text>
+<text transform="translate(840,1495) rotate(-90)" font-size="32" style="fill:rgb(105, 205, 91)">climatechange</text>
+<text transform="translate(1162,692)" font-size="32" style="fill:rgb(31, 148, 140)">news</text>
+<text transform="translate(364,310)" font-size="32" style="fill:rgb(88, 199, 101)">climate</text>
+<text transform="translate(1225,1117)" font-size="32" style="fill:rgb(37, 171, 130)">elephants</text>
+<text transform="translate(1428,835)" font-size="32" style="fill:rgb(147, 215, 65)">boycott4wildlife</text>
+<text transform="translate(767,397)" font-size="32" style="fill:rgb(42, 118, 142)">boycott</text>
+<text transform="translate(1011,335)" font-size="32" style="fill:rgb(115, 208, 86)">wildlife</text>
+<text transform="translate(635,1777)" font-size="32" style="fill:rgb(72, 32, 113)">win</text>
+<text transform="translate(469,582)" font-size="31" style="fill:rgb(234, 229, 26)">humanrights</text>
+<text transform="translate(1216,725)" font-size="30" style="fill:rgb(44, 114, 142)">retweet</text>
+<text transform="translate(1192,1153)" font-size="30" style="fill:rgb(38, 130, 142)">boycottpalmoil</text>
+<text transform="translate(1009,422)" font-size="30" style="fill:rgb(40, 125, 142)">follow</text>
+<text transform="translate(1134,259)" font-size="30" style="fill:rgb(34, 168, 132)">vegan</text>
+<text transform="translate(1048,842)" font-size="30" style="fill:rgb(142, 214, 69)">notinmytank</text>
+<text transform="translate(739,841)" font-size="30" style="fill:rgb(68, 58, 131)">food</text>
+<text transform="translate(1372,1483) rotate(-90)" font-size="30" style="fill:rgb(61, 188, 116)">ecocide</text>
+<text transform="translate(1084,881)" font-size="30" style="fill:rgb(99, 203, 95)">westpapua</text>
+<text transform="translate(463,687)" font-size="30" style="fill:rgb(68, 57, 131)">forests</text>
+<text transform="translate(1129,975)" font-size="25" style="fill:rgb(33, 144, 141)">worldorangutanday</text>
+<text transform="translate(1292,750)" font-size="25" style="fill:rgb(46, 110, 142)">india</text>
+<text transform="translate(802,454)" font-size="25" style="fill:rgb(144, 215, 67)">commodities</text>
+<text transform="translate(732,430)" font-size="25" style="fill:rgb(152, 216, 62)">biofuels</text>
+<text transform="translate(928,741)" font-size="25" style="fill:rgb(38, 173, 129)">covid19</text>
+<text transform="translate(1217,440)" font-size="25" style="fill:rgb(86, 198, 103)">malaysianpalmoil</text>
+<text transform="translate(916,1001) rotate(-90)" font-size="24" style="fill:rgb(115, 208, 86)">livefornow</text>
+<text transform="translate(1371,1657)" font-size="24" style="fill:rgb(110, 206, 88)">africa</text>
+<text transform="translate(1089,514)" font-size="22" style="fill:rgb(31, 153, 138)">sustainablepalmoil</text>
+<text transform="translate(743,1617)" font-size="22" style="fill:rgb(197, 224, 33)">ferrero</text>
+<text transform="translate(576,281)" font-size="22" style="fill:rgb(72, 37, 118)">peopleoverprofit</text>
+<text transform="translate(813,824)" font-size="22" style="fill:rgb(31, 161, 136)">mcdeforestation</text>
+<text transform="translate(1220,1654)" font-size="21" style="fill:rgb(46, 109, 142)">health</text>
+<text transform="translate(965,1000) rotate(-90)" font-size="21" style="fill:rgb(218, 227, 25)">icelandadvert</text>
+<text transform="translate(1380,910)" font-size="21" style="fill:rgb(184, 222, 41)">oreo</text>
+<text transform="translate(1375,1196)" font-size="20" style="fill:rgb(31, 150, 139)">repsa</text>
+<text transform="translate(1053,598)" font-size="19" style="fill:rgb(56, 88, 140)">sawit</text>
+<text transform="translate(1053,925)" font-size="19" style="fill:rgb(72, 24, 106)">nutella</text>
+<text transform="translate(942,1536) rotate(-90)" font-size="19" style="fill:rgb(205, 225, 29)">cop26</text>
+<text transform="translate(1544,1073)" font-size="19" style="fill:rgb(32, 163, 134)">childabuse</text>
+<text transform="translate(592,1777) rotate(-90)" font-size="19" style="fill:rgb(72, 22, 104)">extinction</text>
+<text transform="translate(1026,363)" font-size="19" style="fill:rgb(53, 94, 141)">pancakeday</text>
+<text transform="translate(964,1661)" font-size="19" style="fill:rgb(160, 218, 57)">cpo</text>
+<text transform="translate(509,541)" font-size="19" style="fill:rgb(132, 212, 75)">saynotopalmoil</text>
+<text transform="translate(665,1633)" font-size="19" style="fill:rgb(110, 206, 88)">biodiversity</text>
+<text transform="translate(1128,297)" font-size="19" style="fill:rgb(127, 211, 78)">nopalmoil</text>
+<text transform="translate(686,1649)" font-size="19" style="fill:rgb(70, 50, 126)">forest</text>
+<text transform="translate(1005,1668)" font-size="19" style="fill:rgb(70, 48, 126)">business</text>
+<text transform="translate(975,458)" font-size="19" style="fill:rgb(31, 149, 139)">greenwashing</text>
+<text transform="translate(591,684)" font-size="19" style="fill:rgb(241, 229, 29)">dt</text>
+<text transform="translate(846,505)" font-size="19" style="fill:rgb(37, 131, 142)">rt</text>
+<text transform="translate(1060,265)" font-size="19" style="fill:rgb(51, 99, 141)">borneo</text>
+<text transform="translate(1372,940)" font-size="19" style="fill:rgb(253, 231, 37)">eu</text>
+<text transform="translate(1283,1175)" font-size="19" style="fill:rgb(137, 213, 72)">conservation</text>
+<text transform="translate(1424,985)" font-size="19" style="fill:rgb(40, 174, 128)">oilpalm</text>
+<text transform="translate(645,665)" font-size="19" style="fill:rgb(40, 124, 142)">biodiesel</text>
+<text transform="translate(1388,861)" font-size="19" style="fill:rgb(132, 212, 75)">palmoilhumanrights</text>
+<text transform="translate(1605,1786)" font-size="19" style="fill:rgb(142, 214, 69)">care2</text>
+<text transform="translate(1552,798)" font-size="19" style="fill:rgb(60, 80, 139)">redape</text>
+<text transform="translate(1152,803)" font-size="19" style="fill:rgb(72, 36, 117)">tigers</text>
+<text transform="translate(785,1788)" font-size="19" style="fill:rgb(88, 199, 101)">palmoiljustice</text>
+<text transform="translate(444,607)" font-size="19" style="fill:rgb(70, 52, 128)">tastethedestruction</text>
+<text transform="translate(1246,672)" font-size="19" style="fill:rgb(88, 199, 101)">green</text>
+<text transform="translate(1596,1018)" font-size="19" style="fill:rgb(82, 197, 105)">csr</text>
+<text transform="translate(1119,1655)" font-size="19" style="fill:rgb(31, 151, 139)">animals</text>
+<text transform="translate(1124,596)" font-size="19" style="fill:rgb(62, 73, 137)">nestle</text>
+<text transform="translate(604,1793)" font-size="19" style="fill:rgb(69, 5, 89)">nachorainforest</text>
+<text transform="translate(1090,397)" font-size="19" style="fill:rgb(70, 10, 93)">biofuel</text>
+<text transform="translate(296,275)" font-size="19" style="fill:rgb(60, 80, 139)">together4forests</text>
+<text transform="translate(767,668)" font-size="17" style="fill:rgb(101, 203, 94)">internationalorangutanday</text>
+<text transform="translate(1268,691)" font-size="17" style="fill:rgb(78, 195, 107)">indigenous</text>
+<text transform="translate(1453,1078)" font-size="17" style="fill:rgb(50, 182, 122)">korindo</text>
+<text transform="translate(751,915)" font-size="17" style="fill:rgb(38, 129, 142)">malaysian</text>
+<text transform="translate(748,883)" font-size="17" style="fill:rgb(71, 42, 122)">banpalmoil</text>
+<text transform="translate(1132,909)" font-size="17" style="fill:rgb(32, 163, 134)">protectparadise</text>
+<text transform="translate(636,245)" font-size="17" style="fill:rgb(72, 20, 103)">liberia</text>
+<text transform="translate(1042,1113)" font-size="17" style="fill:rgb(47, 180, 124)">halloween</text>
+<text transform="translate(631,389)" font-size="17" style="fill:rgb(202, 225, 31)">wwf</text>
+<text transform="translate(1375,887)" font-size="17" style="fill:rgb(61, 77, 138)">globaltigerday</text>
+<text transform="translate(1037,958)" font-size="17" style="fill:rgb(69, 56, 130)">sarawak</text>
+<text transform="translate(612,1652)" font-size="17" style="fill:rgb(117, 208, 84)">fgv</text>
+<text transform="translate(714,604)" font-size="17" style="fill:rgb(42, 119, 142)">indomieinbbn</text>
+<text transform="translate(1293,774)" font-size="17" style="fill:rgb(119, 209, 83)">nigeria</text>
+<text transform="translate(1061,1787)" font-size="17" style="fill:rgb(49, 181, 123)">animation</text>
+<text transform="translate(1396,1566) rotate(-90)" font-size="17" style="fill:rgb(80, 196, 106)">businessnews</text>
+<text transform="translate(846,844)" font-size="17" style="fill:rgb(70, 48, 126)">oatt</text>
+<text transform="translate(1323,416)" font-size="17" style="fill:rgb(50, 101, 142)">rt16</text>
+<text transform="translate(769,739)" font-size="17" style="fill:rgb(31, 161, 135)">forcedlabour</text>
+<text transform="translate(969,1576) rotate(-90)" font-size="17" style="fill:rgb(52, 96, 141)">stopframeanimation</text>
+<text transform="translate(395,240)" font-size="17" style="fill:rgb(72, 193, 110)">kashmir</text>
+<text transform="translate(894,513)" font-size="17" style="fill:rgb(105, 205, 91)">supplychain</text>
+<text transform="translate(781,969) rotate(-90)" font-size="17" style="fill:rgb(218, 227, 25)">cop21</text>
+<text transform="translate(1004,802)" font-size="17" style="fill:rgb(68, 57, 131)">goodbadpalmoil</text>
+<text transform="translate(1127,232)" font-size="17" style="fill:rgb(105, 205, 91)">cameroon</text>
+<text transform="translate(757,861)" font-size="17" style="fill:rgb(64, 69, 136)">animalrights</text>
+<text transform="translate(1503,1750)" font-size="17" style="fill:rgb(234, 229, 26)">wilmar</text>
+<text transform="translate(380,324)" font-size="17" style="fill:rgb(105, 205, 91)">agriculture</text>
+<text transform="translate(848,1661) rotate(-90)" font-size="17" style="fill:rgb(33, 142, 141)">worldnutelladay</text>
+<text transform="translate(1240,1752)" font-size="15" style="fill:rgb(32, 147, 140)">nopalmoilchristmas</text>
+<text transform="translate(494,217)" font-size="15" style="fill:rgb(248, 230, 33)">lovemypalmoil</text>
+<text transform="translate(997,434)" font-size="15" style="fill:rgb(71, 44, 122)">palmoilscorecard</text>
+<text transform="translate(1205,995)" font-size="15" style="fill:rgb(61, 78, 138)">easter</text>
+<text transform="translate(840,1097)" font-size="15" style="fill:rgb(72, 29, 111)">petition</text>
+<text transform="translate(855,1202)" font-size="15" style="fill:rgb(64, 69, 136)">kiva</text>
+<text transform="translate(995,387)" font-size="15" style="fill:rgb(31, 158, 137)">inyourpalm</text>
+<text transform="translate(1326,512)" font-size="15" style="fill:rgb(40, 125, 142)">asia</text>
+<text transform="translate(276,296)" font-size="15" style="fill:rgb(43, 117, 142)">superfood</text>
+<text transform="translate(1048,277)" font-size="15" style="fill:rgb(47, 107, 142)">landgrabbing</text>
+<text transform="translate(864,1503) rotate(-90)" font-size="15" style="fill:rgb(62, 76, 138)">exploitation</text>
+<text transform="translate(369,700)" font-size="15" style="fill:rgb(31, 152, 139)">derivatives</text>
+<text transform="translate(1235,543)" font-size="15" style="fill:rgb(58, 83, 139)">chocolate</text>
+<text transform="translate(1050,297)" font-size="15" style="fill:rgb(36, 134, 142)">kitkat</text>
+<text transform="translate(931,1586)" font-size="15" style="fill:rgb(32, 146, 140)">natureemergency</text>
+<text transform="translate(758,800)" font-size="14" style="fill:rgb(70, 51, 127)">norainforestinmytank</text>
+<text transform="translate(1342,998)" font-size="14" style="fill:rgb(70, 8, 92)">orangutanday</text>
+<text transform="translate(522,1711)" font-size="14" style="fill:rgb(49, 181, 123)">eco</text>
+<text transform="translate(1595,1088)" font-size="14" style="fill:rgb(38, 130, 142)">indonesian</text>
+<text transform="translate(1345,1669)" font-size="14" style="fill:rgb(244, 230, 30)">edibleoil</text>
+<text transform="translate(545,659)" font-size="14" style="fill:rgb(69, 53, 129)">bbnaija</text>
+<text transform="translate(865,423)" font-size="14" style="fill:rgb(35, 136, 142)">nature</text>
+<text transform="translate(665,375)" font-size="14" style="fill:rgb(48, 105, 142)">nsmqfinals</text>
+<text transform="translate(1341,459)" font-size="14" style="fill:rgb(72, 38, 119)">greenpeace</text>
+<text transform="translate(678,397)" font-size="14" style="fill:rgb(68, 191, 112)">eastereggs</text>
+<text transform="translate(997,938)" font-size="14" style="fill:rgb(33, 145, 140)">huiledepalme</text>
+<text transform="translate(290,311)" font-size="14" style="fill:rgb(50, 182, 122)">stopioi</text>
+<text transform="translate(1503,979)" font-size="14" style="fill:rgb(40, 174, 128)">anipals</text>
+<text transform="translate(1461,808)" font-size="14" style="fill:rgb(67, 61, 132)">crude</text>
+<text transform="translate(1052,609)" font-size="14" style="fill:rgb(64, 189, 114)">climatecrisis</text>
+<text transform="translate(673,259)" font-size="14" style="fill:rgb(72, 22, 104)">mpoc</text>
+<text transform="translate(333,252)" font-size="14" style="fill:rgb(36, 134, 142)">orangutanfriendly</text>
+<text transform="translate(639,676)" font-size="14" style="fill:rgb(72, 28, 110)">environmental</text>
+<text transform="translate(852,1192) rotate(-90)" font-size="14" style="fill:rgb(55, 184, 120)">haze</text>
+<text transform="translate(1310,1190)" font-size="14" style="fill:rgb(71, 13, 96)">sumatra</text>
+<text transform="translate(848,1350)" font-size="14" style="fill:rgb(72, 38, 119)">amazon</text>
+<text transform="translate(792,467)" font-size="14" style="fill:rgb(69, 55, 129)">stopthefires</text>
+<text transform="translate(1447,1762)" font-size="14" style="fill:rgb(101, 203, 94)">iceland</text>
+<text transform="translate(803,718)" font-size="12" style="fill:rgb(60, 79, 138)">nodeath4orangutans</text>
+<text transform="translate(1116,1749)" font-size="12" style="fill:rgb(37, 171, 130)">endangered</text>
+<text transform="translate(527,1692)" font-size="12" style="fill:rgb(200, 224, 32)">soap</text>
+<text transform="translate(1390,821) rotate(-90)" font-size="12" style="fill:rgb(43, 117, 142)">pepsico</text>
+<text transform="translate(1196,1666)" font-size="12" style="fill:rgb(72, 28, 110)">china</text>
+<text transform="translate(1352,1565) rotate(-90)" font-size="12" style="fill:rgb(33, 143, 141)">unilever</text>
+<text transform="translate(1233,248)" font-size="12" style="fill:rgb(31, 160, 136)">greenpalm</text>
+<text transform="translate(1170,852)" font-size="12" style="fill:rgb(64, 70, 136)">corruption</text>
+<text transform="translate(731,586)" font-size="12" style="fill:rgb(64, 70, 136)">environmentdefenders</text>
+<text transform="translate(1256,878) rotate(-90)" font-size="12" style="fill:rgb(56, 88, 140)">papua</text>
+<text transform="translate(498,1789)" font-size="12" style="fill:rgb(54, 92, 141)">makupalmoil</text>
+<text transform="translate(1183,1187) rotate(-90)" font-size="12" style="fill:rgb(50, 101, 142)">mpob</text>
+<text transform="translate(1443,1253) rotate(-90)" font-size="12" style="fill:rgb(43, 117, 142)">climateaction</text>
+<text transform="translate(965,1380) rotate(-90)" font-size="12" style="fill:rgb(67, 61, 132)">nowreading</text>
+<text transform="translate(857,1559)" font-size="12" style="fill:rgb(61, 188, 116)">cancer</text>
+<text transform="translate(1529,1722)" font-size="12" style="fill:rgb(49, 102, 142)">pakistan</text>
+<text transform="translate(1348,725)" font-size="12" style="fill:rgb(63, 72, 137)">norway</text>
+<text transform="translate(1390,1217)" font-size="12" style="fill:rgb(68, 1, 84)">auspol</text>
+<text transform="translate(760,979) rotate(-90)" font-size="12" style="fill:rgb(58, 83, 139)">organic</text>
+<text transform="translate(873,1143)" font-size="12" style="fill:rgb(57, 86, 140)">felda</text>
+<text transform="translate(1537,1700)" font-size="12" style="fill:rgb(31, 149, 139)">unga</text>
+<text transform="translate(1170,314)" font-size="12" style="fill:rgb(48, 105, 142)">goodfat</text>
+<text transform="translate(495,289)" font-size="12" style="fill:rgb(71, 13, 96)">eurt2018</text>
+<text transform="translate(486,555)" font-size="12" style="fill:rgb(149, 216, 64)">singapore</text>
+<text transform="translate(1127,1048)" font-size="12" style="fill:rgb(31, 153, 138)">soy</text>
+<text transform="translate(518,520)" font-size="12" style="fill:rgb(35, 169, 131)">industry</text>
+<text transform="translate(1132,701)" font-size="12" style="fill:rgb(72, 24, 106)">savetheorangutans</text>
+<text transform="translate(1036,725)" font-size="12" style="fill:rgb(31, 148, 140)">animatecafebkk</text>
+<text transform="translate(818,483)" font-size="12" style="fill:rgb(31, 149, 139)">animetrap</text>
+<text transform="translate(979,927) rotate(-90)" font-size="12" style="fill:rgb(56, 185, 119)">stopframe</text>
+<text transform="translate(1045,1132)" font-size="12" style="fill:rgb(31, 149, 139)">nsmq2021</text>
+<text transform="translate(1051,852)" font-size="12" style="fill:rgb(67, 62, 133)">vegoils</text>
+<text transform="translate(1495,1025)" font-size="12" style="fill:rgb(234, 229, 26)">dyk</text>
+<text transform="translate(1038,663)" font-size="12" style="fill:rgb(71, 44, 122)">govegan</text>
+<text transform="translate(514,1762)" font-size="12" style="fill:rgb(246, 230, 32)">congo</text>
+<text transform="translate(367,680)" font-size="12" style="fill:rgb(72, 33, 115)">buttergate</text>
+<text transform="translate(1238,466)" font-size="12" style="fill:rgb(37, 171, 130)">workers</text>
+<text transform="translate(766,1600)" font-size="12" style="fill:rgb(56, 88, 140)">handmade</text>
+<text transform="translate(1350,1372) rotate(-90)" font-size="12" style="fill:rgb(45, 113, 142)">scorecard</text>
+<text transform="translate(1432,902)" font-size="12" style="fill:rgb(197, 224, 33)">pepsifire</text>
+<text transform="translate(1151,1095)" font-size="12" style="fill:rgb(50, 100, 142)">earthday</text>
+<text transform="translate(1251,271)" font-size="12" style="fill:rgb(38, 129, 142)">ag</text>
+<text transform="translate(375,654)" font-size="12" style="fill:rgb(31, 158, 137)">handmadesoap</text>
+<text transform="translate(510,1738)" font-size="12" style="fill:rgb(38, 129, 142)">greatapes</text>
+<text transform="translate(1269,1699)" font-size="12" style="fill:rgb(69, 5, 89)">film</text>
+<text transform="translate(1124,666)" font-size="12" style="fill:rgb(194, 223, 35)">globalwarming</text>
+<text transform="translate(1556,991)" font-size="12" style="fill:rgb(72, 31, 112)">elephant</text>
+<text transform="translate(983,591)" font-size="12" style="fill:rgb(71, 17, 100)">guatemala</text>
+<text transform="translate(1174,1203)" font-size="12" style="fill:rgb(69, 56, 130)">landrights</text>
+<text transform="translate(1593,843)" font-size="11" style="fill:rgb(55, 91, 141)">sevenworldsoneplanet</text>
+<text transform="translate(730,298)" font-size="11" style="fill:rgb(47, 108, 142)">mayday</text>
+<text transform="translate(1280,526)" font-size="11" style="fill:rgb(241, 229, 29)">movie</text>
+<text transform="translate(762,895)" font-size="11" style="fill:rgb(178, 221, 45)">animation_video</text>
+<text transform="translate(1046,306)" font-size="11" style="fill:rgb(127, 211, 78)">animationartist</text>
+<text transform="translate(1602,1038)" font-size="11" style="fill:rgb(68, 58, 131)">animations</text>
+<text transform="translate(752,671)" font-size="11" style="fill:rgb(66, 190, 113)">uk</text>
+<text transform="translate(1168,1584)" font-size="11" style="fill:rgb(60, 80, 139)">orientalpacific</text>
+<text transform="translate(971,1790)" font-size="11" style="fill:rgb(70, 192, 111)">didyouknow</text>
+<text transform="translate(1070,982)" font-size="11" style="fill:rgb(58, 84, 140)">giveaway</text>
+<text transform="translate(1099,1585)" font-size="11" style="fill:rgb(216, 226, 25)">energy</text>
+<text transform="translate(1273,740)" font-size="11" style="fill:rgb(31, 161, 136)">drc</text>
+<text transform="translate(866,678)" font-size="11" style="fill:rgb(53, 95, 141)">christmas</text>
+<text transform="translate(1322,918)" font-size="11" style="fill:rgb(34, 168, 132)">crudepalmoil</text>
+<text transform="translate(879,605)" font-size="11" style="fill:rgb(72, 37, 118)">dkl</text>
+<text transform="translate(1102,890)" font-size="11" style="fill:rgb(56, 185, 119)">til_now</text>
+<text transform="translate(563,504)" font-size="11" style="fill:rgb(62, 74, 137)">sindhgovt</text>
+<text transform="translate(1566,1732)" font-size="11" style="fill:rgb(65, 66, 135)">jakpost</text>
+<text transform="translate(818,326)" font-size="11" style="fill:rgb(41, 123, 142)">agro</text>
+<text transform="translate(504,297)" font-size="11" style="fill:rgb(40, 124, 142)">palmolie</text>
+<text transform="translate(1293,1211)" font-size="11" style="fill:rgb(32, 163, 134)">palm_oil</text>
+<text transform="translate(868,1305)" font-size="11" style="fill:rgb(55, 91, 141)">trading</text>
+<text transform="translate(1580,1758)" font-size="11" style="fill:rgb(49, 103, 142)">sawitbaik</text>
+<text transform="translate(691,1663)" font-size="11" style="fill:rgb(37, 133, 142)">infographic</text>
+<text transform="translate(1398,1104)" font-size="11" style="fill:rgb(70, 192, 111)">peru</text>
+<text transform="translate(790,372)" font-size="11" style="fill:rgb(32, 164, 134)">notopalmoil</text>
+<text transform="translate(1022,1645)" font-size="11" style="fill:rgb(99, 203, 95)">palmoilhealth</text>
+<text transform="translate(381,633)" font-size="11" style="fill:rgb(142, 214, 69)">traderjoes</text>
+<text transform="translate(934,462)" font-size="11" style="fill:rgb(165, 219, 54)">bs</text>
+<text transform="translate(1261,1662)" font-size="11" style="fill:rgb(64, 70, 136)">european</text>
+<text transform="translate(1214,1132)" font-size="11" style="fill:rgb(94, 201, 98)">delicious</text>
+<text transform="translate(938,801)" font-size="11" style="fill:rgb(33, 144, 141)">drones</text>
+<text transform="translate(873,1031)" font-size="11" style="fill:rgb(39, 128, 142)">rangtan</text>
+<text transform="translate(1189,1186)" font-size="11" style="fill:rgb(184, 222, 41)">bluetherapy</text>
+<text transform="translate(1432,1665)" font-size="11" style="fill:rgb(165, 219, 54)">soapmaking</text>
+<text transform="translate(792,633)" font-size="11" style="fill:rgb(34, 140, 141)">cspo</text>
+<text transform="translate(1134,1762)" font-size="11" style="fill:rgb(253, 231, 37)">esg</text>
+<text transform="translate(1367,1580) rotate(-90)" font-size="11" style="fill:rgb(76, 194, 108)">cosmetics</text>
+<text transform="translate(1024,576) rotate(-90)" font-size="11" style="fill:rgb(68, 2, 86)">tiger</text>
+<text transform="translate(1448,911)" font-size="11" style="fill:rgb(47, 107, 142)">fcpo</text>
+<text transform="translate(932,1740) rotate(-90)" font-size="11" style="fill:rgb(65, 68, 135)">eatwell</text>
+<text transform="translate(1179,450)" font-size="11" style="fill:rgb(68, 1, 84)">changepenang</text>
+<text transform="translate(747,439)" font-size="11" style="fill:rgb(176, 221, 47)">colombia</text>
+<text transform="translate(798,1671)" font-size="11" style="fill:rgb(31, 148, 140)">icelandchristmasadvert</text>
+<text transform="translate(1001,345)" font-size="11" style="fill:rgb(117, 208, 84)">cocoa</text>
+<text transform="translate(1380,1440) rotate(-90)" font-size="11" style="fill:rgb(72, 27, 109)">bjwtpretenders</text>
+<text transform="translate(1080,811)" font-size="11" style="fill:rgb(50, 101, 142)">dolphinangels</text>
+<text transform="translate(799,647)" font-size="11" style="fill:rgb(62, 76, 138)">poig</text>
+<text transform="translate(598,1753)" font-size="11" style="fill:rgb(241, 229, 29)">fairtrade</text>
+<text transform="translate(1640,799)" font-size="11" style="fill:rgb(40, 174, 128)">diesel</text>
+<text transform="translate(459,340)" font-size="11" style="fill:rgb(205, 225, 29)">lauric</text>
+<text transform="translate(1610,1047)" font-size="11" style="fill:rgb(72, 36, 117)">redpalmoil</text>
+<text transform="translate(854,1523)" font-size="11" style="fill:rgb(101, 203, 94)">landgrabs</text>
+<text transform="translate(1171,350)" font-size="11" style="fill:rgb(38, 130, 142)">soft</text>
+<text transform="translate(961,680)" font-size="11" style="fill:rgb(33, 142, 141)">zerodeforestation</text>
+<text transform="translate(1330,699)" font-size="11" style="fill:rgb(43, 117, 142)">brazil</text>
+<text transform="translate(1310,1125)" font-size="11" style="fill:rgb(72, 24, 106)">skincare</text>
+<text transform="translate(1195,1169)" font-size="11" style="fill:rgb(35, 138, 141)">palmoiltv</text>
+<text transform="translate(358,664)" font-size="11" style="fill:rgb(205, 225, 29)">thailand</text>
+<text transform="translate(527,665) rotate(-90)" font-size="11" style="fill:rgb(72, 38, 119)">chester</text>
+<text transform="translate(1306,665)" font-size="11" style="fill:rgb(65, 66, 135)">research</text>
+<text transform="translate(1159,274)" font-size="11" style="fill:rgb(246, 230, 32)">savetheplanet</text>
+<text transform="translate(1051,1095)" font-size="11" style="fill:rgb(71, 44, 122)">childlabor</text>
+<text transform="translate(1047,966)" font-size="11" style="fill:rgb(88, 199, 101)">hsbcexposed</text>
+<text transform="translate(834,1228) rotate(-90)" font-size="11" style="fill:rgb(31, 154, 138)">ttip</text>
+<text transform="translate(423,586)" font-size="11" style="fill:rgb(48, 106, 142)">science</text>
+<text transform="translate(977,1539) rotate(-90)" font-size="11" style="fill:rgb(129, 211, 77)">godiswatchingyou</text>
+<text transform="translate(841,405)" font-size="11" style="fill:rgb(71, 17, 100)">voteerica</text>
+<text transform="translate(625,553)" font-size="11" style="fill:rgb(43, 117, 142)">nestlé</text>
+<text transform="translate(1029,1144)" font-size="11" style="fill:rgb(33, 144, 141)">savetripa</text>
+<text transform="translate(1006,466)" font-size="11" style="fill:rgb(90, 200, 100)">beforetheflood</text>
+<text transform="translate(868,1654) rotate(-90)" font-size="11" style="fill:rgb(71, 13, 96)">transparency</text>
+<text transform="translate(587,371)" font-size="11" style="fill:rgb(71, 45, 123)">honduras</text>
+<text transform="translate(1437,962)" font-size="11" style="fill:rgb(46, 110, 142)">agribusiness</text>
+<text transform="translate(870,1010)" font-size="11" style="fill:rgb(62, 76, 138)">mspo</text>
+<text transform="translate(934,717)" font-size="11" style="fill:rgb(40, 124, 142)">indonesiastone</text>
+<text transform="translate(1130,855)" font-size="11" style="fill:rgb(68, 191, 112)">ai</text>
+<text transform="translate(841,1363)" font-size="11" style="fill:rgb(59, 187, 117)">payusviabvn</text>
+<text transform="translate(1127,1666)" font-size="11" style="fill:rgb(31, 159, 136)">weightloss</text>
+<text transform="translate(1165,1214)" font-size="11" style="fill:rgb(54, 93, 141)">peoplepower</text>
+<text transform="translate(836,1152)" font-size="11" style="fill:rgb(246, 230, 32)">ioicommitnow</text>
+<text transform="translate(961,1092) rotate(-90)" font-size="11" style="fill:rgb(31, 154, 138)">madeinnigeria</text>
+<text transform="translate(841,1236)" font-size="11" style="fill:rgb(72, 41, 121)">redd</text>
+<text transform="translate(1508,1702) rotate(-90)" font-size="11" style="fill:rgb(43, 117, 142)">france</text>
+<text transform="translate(1201,811)" font-size="11" style="fill:rgb(197, 224, 33)">loveina</text>
+<text transform="translate(1281,1710)" font-size="11" style="fill:rgb(33, 165, 133)">fuel</text>
+<text transform="translate(1369,1131)" font-size="11" style="fill:rgb(152, 216, 62)">board</text>
+<text transform="translate(820,339)" font-size="11" style="fill:rgb(59, 82, 139)">finance</text>
+<text transform="translate(1016,506)" font-size="11" style="fill:rgb(69, 55, 129)">ethicalhour</text>
+<text transform="translate(581,516)" font-size="11" style="fill:rgb(34, 167, 133)">newsad</text>
+<text transform="translate(549,1717)" font-size="11" style="fill:rgb(64, 189, 114)">corn</text>
+<text transform="translate(1532,875)" font-size="11" style="fill:rgb(124, 210, 80)">stocks</text>
+<text transform="translate(1249,928)" font-size="11" style="fill:rgb(46, 111, 142)">carbonemissions</text>
+<text transform="translate(1219,588)" font-size="11" style="fill:rgb(31, 149, 139)">pepsi</text>
+<text transform="translate(1128,993)" font-size="11" style="fill:rgb(67, 61, 132)">sdgs</text>
+<text transform="translate(1085,377)" font-size="11" style="fill:rgb(234, 229, 26)">forestsnotfires</text>
+<text transform="translate(408,617)" font-size="11" style="fill:rgb(76, 194, 108)">lagos</text>
+<text transform="translate(900,1235)" font-size="11" style="fill:rgb(205, 225, 29)">ad</text>
+<text transform="translate(1306,787)" font-size="11" style="fill:rgb(66, 64, 134)">galaxynote8</text>
+<text transform="translate(1442,998)" font-size="11" style="fill:rgb(70, 8, 92)">livehealthy</text>
+<text transform="translate(790,927)" font-size="11" style="fill:rgb(189, 223, 38)">recipe</text>
+<text transform="translate(576,295)" font-size="11" style="fill:rgb(70, 10, 93)">galaxynote</text>
+<text transform="translate(1505,806)" font-size="11" style="fill:rgb(72, 28, 110)">healthbenefits</text>
+<text transform="translate(1256,609)" font-size="11" style="fill:rgb(72, 20, 103)">bursa</text>
+<text transform="translate(1046,343)" font-size="11" style="fill:rgb(147, 215, 65)">missionedibleoil</text>
+<text transform="translate(1236,553)" font-size="11" style="fill:rgb(132, 212, 75)">naijafood</text>
+<text transform="translate(1398,1629)" font-size="11" style="fill:rgb(241, 229, 29)">europe</text>
+<text transform="translate(1474,869)" font-size="11" style="fill:rgb(181, 222, 43)">world</text>
+<text transform="translate(960,1298) rotate(-90)" font-size="11" style="fill:rgb(134, 213, 73)">makingsoapnaturally</text>
+<text transform="translate(248,309)" font-size="11" style="fill:rgb(205, 225, 29)">meat</text>
+<text transform="translate(1390,1067)" font-size="11" style="fill:rgb(39, 126, 142)">economy</text>
+<text transform="translate(608,1665)" font-size="11" style="fill:rgb(65, 66, 135)">agchat</text>
+<text transform="translate(1375,1592) rotate(-90)" font-size="11" style="fill:rgb(68, 58, 131)">climateemergency</text>
+<text transform="translate(659,591)" font-size="11" style="fill:rgb(31, 161, 135)">soybean</text>
+<text transform="translate(1176,1618) rotate(-90)" font-size="11" style="fill:rgb(58, 83, 139)">ghana</text>
+<text transform="translate(487,272)" font-size="11" style="fill:rgb(253, 231, 37)">petrolfied</text>
+<text transform="translate(531,351)" font-size="11" style="fill:rgb(139, 214, 70)">png</text>
+<text transform="translate(964,1645)" font-size="11" style="fill:rgb(253, 231, 37)">fmtnews</text>
+<text transform="translate(386,708)" font-size="11" style="fill:rgb(59, 82, 139)">trade</text>
+<text transform="translate(1303,649)" font-size="11" style="fill:rgb(160, 218, 57)">cadbury</text>
+<text transform="translate(1395,928)" font-size="11" style="fill:rgb(33, 166, 133)">abuja</text>
+<text transform="translate(1065,248)" font-size="11" style="fill:rgb(82, 197, 105)">ostereiern</text>
+<text transform="translate(1585,1001)" font-size="11" style="fill:rgb(46, 110, 142)">farmers</text>
+<text transform="translate(1263,1762)" font-size="11" style="fill:rgb(251, 231, 35)">unsustainable</text>
+<text transform="translate(1206,889)" font-size="10" style="fill:rgb(72, 24, 106)">aceitedepalma</text>
+<text transform="translate(693,414)" font-size="10" style="fill:rgb(234, 229, 26)">canola</text>
+<text transform="translate(757,869)" font-size="10" style="fill:rgb(71, 14, 97)">market</text>
+<text transform="translate(1082,1056)" font-size="10" style="fill:rgb(229, 228, 25)">commodity</text>
+<text transform="translate(1041,909)" font-size="10" style="fill:rgb(53, 183, 121)">bizdev</text>
+<text transform="translate(1390,1238)" font-size="10" style="fill:rgb(34, 168, 132)">repost</text>
+<text transform="translate(1249,521)" font-size="10" style="fill:rgb(62, 76, 138)">brk</text>
+<text transform="translate(982,1721)" font-size="10" style="fill:rgb(30, 157, 137)">smallholders</text>
+<text transform="translate(1093,441)" font-size="10" style="fill:rgb(35, 138, 141)">habitat</text>
+<text transform="translate(501,1773)" font-size="10" style="fill:rgb(40, 124, 142)">valentinesday</text>
+<text transform="translate(879,1185)" font-size="10" style="fill:rgb(37, 133, 142)">fact</text>
+<text transform="translate(1401,466)" font-size="10" style="fill:rgb(78, 195, 107)">natural</text>
+<text transform="translate(495,1749)" font-size="10" style="fill:rgb(71, 14, 97)">palmportraits</text>
+<text transform="translate(1384,976)" font-size="10" style="fill:rgb(37, 132, 142)">beauty</text>
+<text transform="translate(1359,1352) rotate(-90)" font-size="10" style="fill:rgb(48, 105, 142)">sawitanugerahtuhan</text>
+<text transform="translate(924,965) rotate(-90)" font-size="10" style="fill:rgb(71, 14, 97)">stoplandgrabbing</text>
+<text transform="translate(1017,808)" font-size="10" style="fill:rgb(51, 98, 141)">soaps</text>
+<text transform="translate(742,940) rotate(-90)" font-size="10" style="fill:rgb(38, 130, 142)">worldwildlifeday</text>
+<text transform="translate(1169,334)" font-size="10" style="fill:rgb(34, 141, 141)">exports</text>
+<text transform="translate(1131,675)" font-size="10" style="fill:rgb(59, 187, 117)">tech</text>
+<text transform="translate(1298,984)" font-size="10" style="fill:rgb(119, 209, 83)">zakirnaik</text>
+<text transform="translate(993,442) rotate(-90)" font-size="10" style="fill:rgb(92, 200, 99)">australia</text>
+<text transform="translate(1264,453)" font-size="10" style="fill:rgb(186, 222, 40)">changequaker</text>
+<text transform="translate(1630,1058)" font-size="10" style="fill:rgb(34, 141, 141)">srilanka</text>
+<text transform="translate(1207,234)" font-size="10" style="fill:rgb(50, 100, 142)">breakingnews</text>
+<text transform="translate(846,1313)" font-size="10" style="fill:rgb(213, 226, 26)">cookingoil</text>
+<text transform="translate(1377,413)" font-size="10" style="fill:rgb(57, 86, 140)">illegal</text>
+<text transform="translate(518,1724)" font-size="10" style="fill:rgb(72, 27, 109)">starbucks</text>
+<text transform="translate(1147,785) rotate(-90)" font-size="10" style="fill:rgb(34, 140, 141)">carbon</text>
+<text transform="translate(906,831)" font-size="10" style="fill:rgb(71, 19, 101)">actonclimate</text>
+<text transform="translate(1255,1167)" font-size="10" style="fill:rgb(63, 72, 137)">p2</text>
+<text transform="translate(1007,598)" font-size="10" style="fill:rgb(68, 191, 112)">usda</text>
+<text transform="translate(1159,1227)" font-size="10" style="fill:rgb(52, 182, 121)">primates</text>
+<text transform="translate(742,808)" font-size="10" style="fill:rgb(62, 74, 137)">stoppalmoil</text>
+<text transform="translate(894,846)" font-size="10" style="fill:rgb(244, 230, 30)">diet</text>
+<text transform="translate(967,850)" font-size="10" style="fill:rgb(46, 111, 142)">planet</text>
+<text transform="translate(1095,900)" font-size="10" style="fill:rgb(226, 228, 24)">icymi</text>
+<text transform="translate(1532,1758)" font-size="10" style="fill:rgb(155, 217, 60)">imports</text>
+<text transform="translate(1088,736)" font-size="10" style="fill:rgb(54, 92, 141)">earlybiz</text>
+<text transform="translate(1033,1156)" font-size="10" style="fill:rgb(71, 13, 96)">slavery</text>
+<text transform="translate(890,995) rotate(-90)" font-size="10" style="fill:rgb(35, 136, 142)">papuanewguinea</text>
+<text transform="translate(558,553)" font-size="10" style="fill:rgb(157, 217, 59)">renewables</text>
+<text transform="translate(671,1750) rotate(-90)" font-size="10" style="fill:rgb(71, 44, 122)">orangutancaringweek</text>
+<text transform="translate(468,658)" font-size="10" style="fill:rgb(54, 93, 141)">beef</text>
+<text transform="translate(697,1718)" font-size="10" style="fill:rgb(53, 95, 141)">crueltyfree</text>
+<text transform="translate(507,694)" font-size="10" style="fill:rgb(72, 41, 121)">rhino</text>
+<text transform="translate(1541,1085)" font-size="10" style="fill:rgb(67, 62, 133)">futures</text>
+<text transform="translate(1428,450)" font-size="10" style="fill:rgb(39, 173, 129)">turkey</text>
+<text transform="translate(1155,1722) rotate(-90)" font-size="10" style="fill:rgb(39, 128, 142)">mydunkin</text>
+<text transform="translate(1349,1501) rotate(-90)" font-size="10" style="fill:rgb(35, 169, 131)">leuserecosystem</text>
+<text transform="translate(716,255)" font-size="10" style="fill:rgb(99, 203, 95)">podcast</text>
+<text transform="translate(550,1758)" font-size="10" style="fill:rgb(74, 193, 109)">paleo</text>
+<text transform="translate(1003,441)" font-size="10" style="fill:rgb(246, 230, 32)">plantbased</text>
+<text transform="translate(1563,1743)" font-size="10" style="fill:rgb(72, 41, 121)">nutellagate</text>
+<text transform="translate(877,586)" font-size="10" style="fill:rgb(112, 207, 87)">pets</text>
+<text transform="translate(1297,1644)" font-size="10" style="fill:rgb(48, 105, 142)">dirtybankers</text>
+<text transform="translate(1099,1035)" font-size="10" style="fill:rgb(71, 13, 96)">plantations</text>
+<text transform="translate(750,781)" font-size="10" style="fill:rgb(134, 213, 73)">vegetarian</text>
+<text transform="translate(641,289)" font-size="10" style="fill:rgb(208, 225, 28)">ecofriendly</text>
+<text transform="translate(1158,918)" font-size="10" style="fill:rgb(37, 133, 142)">earth</text>
+<text transform="translate(674,561) rotate(-90)" font-size="10" style="fill:rgb(41, 122, 142)">landgrab</text>
+<text transform="translate(410,664)" font-size="10" style="fill:rgb(45, 178, 125)">pollution</text>
+<text transform="translate(1309,674)" font-size="10" style="fill:rgb(41, 121, 142)">export</text>
+<text transform="translate(337,318)" font-size="10" style="fill:rgb(74, 193, 109)">makeup</text>
+<text transform="translate(1222,258)" font-size="10" style="fill:rgb(31, 151, 139)">nutelladay</text>
+<text transform="translate(1038,1794)" font-size="8" style="fill:rgb(68, 191, 112)">keepforestsstanding</text>
+<text transform="translate(1418,1746)" font-size="8" style="fill:rgb(115, 208, 86)">vegetableoil</text>
+<text transform="translate(1136,1625)" font-size="8" style="fill:rgb(55, 184, 120)">caa</text>
+<text transform="translate(1322,798)" font-size="8" style="fill:rgb(139, 214, 70)">soybeans</text>
+<text transform="translate(960,1286)" font-size="8" style="fill:rgb(189, 223, 38)">pf</text>
+<text transform="translate(893,1251) rotate(-90)" font-size="8" style="fill:rgb(72, 40, 120)">wheat</text>
+<text transform="translate(425,222)" font-size="8" style="fill:rgb(49, 104, 142)">plasticfree</text>
+<text transform="translate(769,520)" font-size="8" style="fill:rgb(71, 42, 122)">savetherainforest</text>
+<text transform="translate(1360,758)" font-size="8" style="fill:rgb(244, 230, 30)">sghaze</text>
+<text transform="translate(884,430)" font-size="8" style="fill:rgb(65, 66, 135)">pygmyelephants</text>
+<text transform="translate(998,922)" font-size="8" style="fill:rgb(70, 7, 90)">saveaceh</text>
+<text transform="translate(1161,707)" font-size="8" style="fill:rgb(194, 223, 35)">ecosystem</text>
+<text transform="translate(1312,1597) rotate(-90)" font-size="8" style="fill:rgb(178, 221, 45)">abujatwittercommunity</text>
+<text transform="translate(518,338)" font-size="8" style="fill:rgb(46, 179, 124)">sawitdivineblessing</text>
+<text transform="translate(629,226)" font-size="8" style="fill:rgb(58, 84, 140)">gobalgoals</text>
+<text transform="translate(1120,1015)" font-size="8" style="fill:rgb(38, 130, 142)">greed</text>
+<text transform="translate(1058,515)" font-size="8" style="fill:rgb(40, 125, 142)">unseen</text>
+<text transform="translate(775,407)" font-size="8" style="fill:rgb(71, 42, 122)">coffee</text>
+<text transform="translate(775,293)" font-size="8" style="fill:rgb(45, 112, 142)">nutrition</text>
+<text transform="translate(1201,923)" font-size="8" style="fill:rgb(142, 214, 69)">fb</text>
+<text transform="translate(338,711)" font-size="8" style="fill:rgb(64, 70, 136)">simedarby</text>
+<text transform="translate(800,1744) rotate(-90)" font-size="8" style="fill:rgb(42, 120, 142)">ebola</text>
+<text transform="translate(1119,684)" font-size="8" style="fill:rgb(119, 209, 83)">climatetv</text>
+<text transform="translate(888,1740) rotate(-90)" font-size="8" style="fill:rgb(186, 222, 40)">palmoilfacts</text>
+<text transform="translate(1480,843)" font-size="8" style="fill:rgb(90, 200, 100)">blockchain</text>
+<text transform="translate(427,282)" font-size="8" style="fill:rgb(117, 208, 84)">yearofthepig</text>
+<text transform="translate(1261,1672)" font-size="8" style="fill:rgb(31, 162, 135)">endangeredspecies</text>
+<text transform="translate(1506,791)" font-size="8" style="fill:rgb(64, 70, 136)">kellogg</text>
+<text transform="translate(581,521)" font-size="8" style="fill:rgb(105, 205, 91)">sgsoc</text>
+<text transform="translate(1231,566)" font-size="8" style="fill:rgb(71, 19, 101)">foodie</text>
+<text transform="translate(803,613)" font-size="8" style="fill:rgb(70, 52, 128)">patanjali</text>
+<text transform="translate(1625,806)" font-size="8" style="fill:rgb(231, 228, 25)">stopthehaze</text>
+<text transform="translate(1404,1227)" font-size="8" style="fill:rgb(59, 82, 139)">brexit</text>
+<text transform="translate(1231,1060)" font-size="8" style="fill:rgb(42, 118, 142)">saverangtan</text>
+<text transform="translate(1602,1793)" font-size="8" style="fill:rgb(49, 102, 142)">badpungoodcause</text>
+<text transform="translate(738,566) rotate(-90)" font-size="8" style="fill:rgb(71, 19, 101)">maythe4th</text>
+<text transform="translate(1510,1732)" font-size="8" style="fill:rgb(31, 153, 138)">starwarsday</text>
+<text transform="translate(1108,1575)" font-size="8" style="fill:rgb(152, 216, 62)">wearamask</text>
+<text transform="translate(420,258)" font-size="8" style="fill:rgb(31, 162, 135)">qna</text>
+<text transform="translate(863,370)" font-size="8" style="fill:rgb(59, 81, 139)">risk</text>
+<text transform="translate(1288,621)" font-size="8" style="fill:rgb(68, 191, 112)">uganda</text>
+<text transform="translate(818,1443) rotate(-90)" font-size="8" style="fill:rgb(35, 136, 142)">fires</text>
+<text transform="translate(1287,1184)" font-size="8" style="fill:rgb(72, 28, 110)">farm</text>
+<text transform="translate(1048,1653)" font-size="8" style="fill:rgb(52, 182, 121)">godiswatchingu</text>
+<text transform="translate(663,339)" font-size="8" style="fill:rgb(246, 230, 32)">healthylifestyle</text>
+<text transform="translate(636,396)" font-size="8" style="fill:rgb(38, 129, 142)">proverb</text>
+<text transform="translate(1191,1039) rotate(-90)" font-size="8" style="fill:rgb(68, 58, 131)">whereissummer</text>
+<text transform="translate(770,753)" font-size="8" style="fill:rgb(37, 171, 130)">herakles</text>
+<text transform="translate(813,940)" font-size="8" style="fill:rgb(70, 50, 126)">jobs</text>
+<text transform="translate(767,1646)" font-size="8" style="fill:rgb(216, 226, 25)">landrightsnow</text>
+<text transform="translate(1395,868)" font-size="8" style="fill:rgb(223, 227, 24)">healthyliving</text>
+<text transform="translate(852,1566)" font-size="8" style="fill:rgb(68, 2, 86)">logging</text>
+<text transform="translate(601,1736) rotate(-90)" font-size="8" style="fill:rgb(64, 70, 136)">philippines</text>
+<text transform="translate(1458,1707)" font-size="8" style="fill:rgb(244, 230, 30)">tax</text>
+<text transform="translate(872,1400)" font-size="8" style="fill:rgb(31, 148, 140)">bioenergy</text>
+<text transform="translate(1196,1752)" font-size="8" style="fill:rgb(55, 90, 140)">robotics</text>
+<text transform="translate(1252,416)" font-size="8" style="fill:rgb(99, 203, 95)">sierraleone</text>
+<text transform="translate(829,318) rotate(-90)" font-size="8" style="fill:rgb(192, 223, 37)">rt13</text>
+<text transform="translate(620,521)" font-size="8" style="fill:rgb(246, 230, 32)">laborday</text>
+<text transform="translate(847,1432) rotate(-90)" font-size="8" style="fill:rgb(144, 215, 67)">southeastasia</text>
+<text transform="translate(1340,1604)" font-size="8" style="fill:rgb(149, 216, 64)">god</text>
+<text transform="translate(1160,358)" font-size="8" style="fill:rgb(31, 154, 138)">vegans</text>
+<text transform="translate(1337,902)" font-size="8" style="fill:rgb(221, 227, 24)">import</text>
+<text transform="translate(905,385)" font-size="8" style="fill:rgb(43, 116, 142)">ml</text>
+<text transform="translate(873,1615)" font-size="8" style="fill:rgb(70, 8, 92)">usa</text>
+<text transform="translate(1241,735)" font-size="8" style="fill:rgb(52, 96, 141)">palmöl</text>
+<text transform="translate(1451,1266) rotate(-90)" font-size="8" style="fill:rgb(55, 184, 120)">thesecretingredient</text>
+<text transform="translate(644,263)" font-size="8" style="fill:rgb(31, 149, 139)">keto</text>
+<text transform="translate(904,1561)" font-size="8" style="fill:rgb(31, 153, 138)">greenwash</text>
+<text transform="translate(1013,606)" font-size="8" style="fill:rgb(47, 180, 124)">susty</text>
+<text transform="translate(1236,596)" font-size="8" style="fill:rgb(134, 213, 73)">ethical</text>
+<text transform="translate(958,521)" font-size="8" style="fill:rgb(38, 173, 129)">dropdirtypalmoi</text>
+<text transform="translate(1154,1239)" font-size="8" style="fill:rgb(71, 14, 97)">healthy</text>
+<text transform="translate(1137,821)" font-size="8" style="fill:rgb(32, 146, 140)">peatland</text>
+<text transform="translate(865,1081) rotate(-90)" font-size="8" style="fill:rgb(51, 99, 141)">worldelephantday</text>
+<text transform="translate(948,1735) rotate(-90)" font-size="8" style="fill:rgb(72, 28, 110)">childlabour</text>
+<text transform="translate(1391,833)" font-size="8" style="fill:rgb(38, 130, 142)">cooking</text>
+<text transform="translate(1592,851)" font-size="8" style="fill:rgb(60, 80, 139)">mpocistanbul</text>
+<text transform="translate(751,769)" font-size="8" style="fill:rgb(112, 207, 87)">yearsproject</text>
+<text transform="translate(1636,1096)" font-size="8" style="fill:rgb(71, 44, 122)">certification</text>
+<text transform="translate(1403,1565) rotate(-90)" font-size="8" style="fill:rgb(52, 97, 141)">futurescrudepalmoil</text>
+<text transform="translate(985,1522) rotate(-90)" font-size="8" style="fill:rgb(56, 88, 140)">hearthealth</text>
+<text transform="translate(1664,1074)" font-size="8" style="fill:rgb(122, 209, 81)">棕油期货</text>
+<text transform="translate(1149,779)" font-size="8" style="fill:rgb(66, 190, 113)">asean</text>
+<text transform="translate(1136,406)" font-size="8" style="fill:rgb(69, 55, 129)">free</text>
+<text transform="translate(1385,842)" font-size="8" style="fill:rgb(38, 130, 142)">kalimantan</text>
+<text transform="translate(774,302)" font-size="8" style="fill:rgb(59, 82, 139)">products</text>
+<text transform="translate(612,683)" font-size="8" style="fill:rgb(34, 168, 132)">regenwoud</text>
+<text transform="translate(1344,817)" font-size="8" style="fill:rgb(41, 122, 142)">travel</text>
+<text transform="translate(1516,1686)" font-size="8" style="fill:rgb(68, 59, 132)">biafra</text>
+<text transform="translate(1287,1197)" font-size="8" style="fill:rgb(80, 196, 106)">supplychains</text>
+<text transform="translate(896,1795)" font-size="8" style="fill:rgb(129, 211, 77)">akwaibomtwitter</text>
+<text transform="translate(988,647) rotate(-90)" font-size="8" style="fill:rgb(59, 82, 139)">probeatz</text>
+<text transform="translate(1370,1310) rotate(-90)" font-size="8" style="fill:rgb(132, 212, 75)">tairp</text>
+<text transform="translate(1261,702)" font-size="8" style="fill:rgb(63, 71, 136)">пасхальныеяйца</text>
+<text transform="translate(261,283)" font-size="8" style="fill:rgb(63, 188, 115)">amazonfires</text>
+<text transform="translate(834,1124)" font-size="8" style="fill:rgb(37, 133, 142)">fari</text>
+<text transform="translate(843,1104)" font-size="8" style="fill:rgb(35, 137, 142)">renewableenergy</text>
+<text transform="translate(816,1374) rotate(-90)" font-size="8" style="fill:rgb(52, 96, 141)">endsars</text>
+<text transform="translate(871,1478) rotate(-90)" font-size="8" style="fill:rgb(57, 86, 140)">mondaymotivation</text>
+<text transform="translate(593,1770)" font-size="8" style="fill:rgb(71, 14, 97)">cassava</text>
+<text transform="translate(1261,1718)" font-size="8" style="fill:rgb(71, 14, 97)">nsmqinkumasi</text>
+<text transform="translate(1038,817)" font-size="8" style="fill:rgb(33, 144, 141)">wellness</text>
+<text transform="translate(976,1414) rotate(-90)" font-size="8" style="fill:rgb(59, 82, 139)">blog</text>
+<text transform="translate(847,1209)" font-size="8" style="fill:rgb(165, 219, 54)">déforestation</text>
+<text transform="translate(1293,1221)" font-size="8" style="fill:rgb(31, 148, 140)">oeufsdepaques</text>
+<text transform="translate(789,675)" font-size="8" style="fill:rgb(105, 205, 91)">zerodeforestion</text>
+<text transform="translate(1078,860)" font-size="8" style="fill:rgb(54, 92, 141)">westafrica</text>
+<text transform="translate(811,1744) rotate(-90)" font-size="8" style="fill:rgb(221, 227, 24)">boycottmalaysia</text>
+<text transform="translate(1119,418)" font-size="8" style="fill:rgb(49, 181, 123)">butter</text>
+<text transform="translate(1222,1739) rotate(-90)" font-size="8" style="fill:rgb(42, 119, 142)">parisagreement</text>
+<text transform="translate(1363,1737) rotate(-90)" font-size="8" style="fill:rgb(71, 45, 123)">goodmanfielder</text>
+<text transform="translate(1286,1726)" font-size="8" style="fill:rgb(67, 61, 132)">bigdata</text>
+<text transform="translate(1260,1092)" font-size="8" style="fill:rgb(231, 228, 25)">eurt2015</text>
+<text transform="translate(1599,1025)" font-size="8" style="fill:rgb(127, 211, 78)">godiswatching</text>
+<text transform="translate(567,1706) rotate(-90)" font-size="8" style="fill:rgb(71, 46, 124)">plantation</text>
+<text transform="translate(741,1693)" font-size="8" style="fill:rgb(70, 51, 127)">sabah</text>
+<text transform="translate(1388,1708)" font-size="8" style="fill:rgb(60, 80, 139)">stop</text>
+<text transform="translate(855,1660) rotate(-90)" font-size="8" style="fill:rgb(63, 72, 137)">worldrainforestday</text>
+<text transform="translate(967,933)" font-size="8" style="fill:rgb(55, 184, 120)">google</text>
+<text transform="translate(913,409)" font-size="8" style="fill:rgb(68, 1, 84)">stock</text>
+<text transform="translate(652,404)" font-size="8" style="fill:rgb(76, 194, 108)">traceability</text>
+<text transform="translate(1087,1745) rotate(-90)" font-size="8" style="fill:rgb(38, 130, 142)">humantrafficking</text>
+<text transform="translate(1326,1032)" font-size="8" style="fill:rgb(61, 77, 138)">p</text>
+<text transform="translate(975,855)" font-size="8" style="fill:rgb(42, 176, 127)">women</text>
+<text transform="translate(1192,594)" font-size="8" style="fill:rgb(248, 230, 33)">イルカ天使</text>
+<text transform="translate(940,561)" font-size="8" style="fill:rgb(35, 137, 142)">cme</text>
+<text transform="translate(636,1639) rotate(-90)" font-size="8" style="fill:rgb(66, 190, 113)">ff</text>
+<text transform="translate(708,382)" font-size="8" style="fill:rgb(42, 120, 142)">glutenfree</text>
+<text transform="translate(972,970) rotate(-90)" font-size="8" style="fill:rgb(70, 11, 94)">cargill</text>
+<text transform="translate(1169,324)" font-size="8" style="fill:rgb(192, 223, 37)">leuser</text>
+<text transform="translate(1159,859)" font-size="8" style="fill:rgb(70, 11, 94)">red</text>
+<text transform="translate(1486,1060)" font-size="8" style="fill:rgb(134, 213, 73)">warindquotes</text>
+<text transform="translate(1390,1443) rotate(-90)" font-size="8" style="fill:rgb(31, 151, 139)">savetheorangutan</text>
+<text transform="translate(1286,756)" font-size="7" style="fill:rgb(226, 228, 24)">stopdeforestation</text>
+<text transform="translate(1203,1001)" font-size="7" style="fill:rgb(251, 231, 35)">tuesdaythoughts</text>
+<text transform="translate(1081,636)" font-size="7" style="fill:rgb(43, 116, 142)">land</text>
+<text transform="translate(1169,462)" font-size="7" style="fill:rgb(50, 182, 122)">oliodipalma</text>
+<text transform="translate(545,590)" font-size="7" style="fill:rgb(70, 51, 127)">candy</text>
+<text transform="translate(1105,520)" font-size="7" style="fill:rgb(132, 212, 75)">beliyangbaik</text>
+<text transform="translate(1057,544)" font-size="7" style="fill:rgb(72, 38, 119)">etsy</text>
+<text transform="translate(712,1612)" font-size="7" style="fill:rgb(31, 161, 135)">forex</text>
+<text transform="translate(359,281)" font-size="7" style="fill:rgb(194, 223, 35)">globalcitizen</text>
+<text transform="translate(977,1565)" font-size="7" style="fill:rgb(39, 126, 142)">dogs</text>
+<text transform="translate(1403,1201)" font-size="7" style="fill:rgb(108, 205, 90)">reuters</text>
+<text transform="translate(994,370)" font-size="7" style="fill:rgb(42, 176, 127)">gabon</text>
+<text transform="translate(1211,915)" font-size="7" style="fill:rgb(56, 88, 140)">boycottnestle</text>
+<text transform="translate(1047,369)" font-size="7" style="fill:rgb(38, 173, 129)">kelloggs</text>
+<text transform="translate(875,503)" font-size="7" style="fill:rgb(63, 188, 115)">nhs</text>
+<text transform="translate(1229,607)" font-size="7" style="fill:rgb(47, 108, 142)">sbliii</text>
+<text transform="translate(1157,521)" font-size="7" style="fill:rgb(44, 177, 126)">saverainforests</text>
+<text transform="translate(799,436)" font-size="7" style="fill:rgb(62, 76, 138)">racingextinction</text>
+<text transform="translate(754,759)" font-size="7" style="fill:rgb(46, 109, 142)">riau</text>
+<text transform="translate(951,1162) rotate(-90)" font-size="7" style="fill:rgb(229, 228, 25)">gmo</text>
+<text transform="translate(801,1794)" font-size="7" style="fill:rgb(162, 218, 55)">chocolatespread</text>
+<text transform="translate(1411,1121)" font-size="7" style="fill:rgb(49, 104, 142)">ispo</text>
+<text transform="translate(763,565)" font-size="7" style="fill:rgb(253, 231, 37)">jakarta</text>
+<text transform="translate(1619,1767)" font-size="7" style="fill:rgb(45, 178, 125)">sumatran</text>
+<text transform="translate(409,331)" font-size="7" style="fill:rgb(31, 152, 139)">pepemployee</text>
+<text transform="translate(1103,990)" font-size="7" style="fill:rgb(157, 217, 59)">wto</text>
+<text transform="translate(1393,1076)" font-size="7" style="fill:rgb(37, 171, 130)">bursamalaysia</text>
+<text transform="translate(1453,1722)" font-size="7" style="fill:rgb(76, 194, 108)">feedly</text>
+<text transform="translate(1317,1629) rotate(-90)" font-size="7" style="fill:rgb(31, 152, 139)">victory</text>
+<text transform="translate(1315,1091)" font-size="7" style="fill:rgb(176, 221, 47)">dairy</text>
+<text transform="translate(1454,1042) rotate(-90)" font-size="7" style="fill:rgb(66, 190, 113)">girlscouts</text>
+<text transform="translate(1228,573)" font-size="7" style="fill:rgb(108, 205, 90)">healthyoil</text>
+<text transform="translate(865,1126)" font-size="7" style="fill:rgb(44, 177, 126)">googlealerts</text>
+<text transform="translate(995,830)" font-size="7" style="fill:rgb(36, 134, 142)">mcm</text>
+<text transform="translate(1329,420)" font-size="7" style="fill:rgb(58, 84, 140)">money</text>
+<text transform="translate(1349,464)" font-size="7" style="fill:rgb(90, 200, 100)">myanmar</text>
+<text transform="translate(760,446)" font-size="7" style="fill:rgb(52, 182, 121)">eurt2016</text>
+<text transform="translate(1301,997)" font-size="7" style="fill:rgb(68, 57, 131)">mongabay</text>
+<text transform="translate(1386,1181)" font-size="7" style="fill:rgb(30, 157, 137)">nowitshot</text>
+<text transform="translate(510,526)" font-size="7" style="fill:rgb(72, 193, 110)">palmdoneright</text>
+<text transform="translate(853,520)" font-size="7" style="fill:rgb(103, 204, 92)">coconutoil</text>
+<text transform="translate(1150,217)" font-size="7" style="fill:rgb(52, 96, 141)">saveorangutan</text>
+<text transform="translate(1064,886)" font-size="7" style="fill:rgb(50, 100, 142)">startup</text>
+<text transform="translate(1109,1003)" font-size="7" style="fill:rgb(64, 69, 136)">palmtrees</text>
+<text transform="translate(1168,602)" font-size="7" style="fill:rgb(40, 125, 142)">date360</text>
+<text transform="translate(1312,1061)" font-size="7" style="fill:rgb(31, 153, 138)">minyaksawit</text>
+<text transform="translate(1359,946)" font-size="7" style="fill:rgb(34, 168, 132)">opkillerpalm</text>
+<text transform="translate(798,699)" font-size="7" style="fill:rgb(65, 68, 135)">osterzeit</text>
+<text transform="translate(1360,446)" font-size="7" style="fill:rgb(35, 138, 141)">cantspinthis</text>
+<text transform="translate(1328,522)" font-size="7" style="fill:rgb(134, 213, 73)">rt14</text>
+<text transform="translate(1402,421)" font-size="7" style="fill:rgb(49, 103, 142)">coconut</text>
+<text transform="translate(1495,1709)" font-size="7" style="fill:rgb(56, 185, 119)">forcedlabor</text>
+<text transform="translate(1082,1616)" font-size="7" style="fill:rgb(208, 225, 28)">apes</text>
+<text transform="translate(781,726)" font-size="7" style="fill:rgb(108, 205, 90)">awaninews</text>
+<text transform="translate(1133,238)" font-size="7" style="fill:rgb(119, 209, 83)">peanutbutter</text>
+<text transform="translate(1335,705)" font-size="7" style="fill:rgb(48, 106, 142)">doritos</text>
+<text transform="translate(1034,1165)" font-size="7" style="fill:rgb(178, 221, 45)">mhhsbd</text>
+<text transform="translate(400,603)" font-size="7" style="fill:rgb(70, 50, 126)">sainsburys</text>
+<text transform="translate(765,542)" font-size="7" style="fill:rgb(168, 219, 52)">consumers</text>
+<text transform="translate(682,381)" font-size="7" style="fill:rgb(36, 134, 142)">us</text>
+<text transform="translate(1352,1091)" font-size="7" style="fill:rgb(69, 56, 130)">animalwelfare</text>
+<text transform="translate(1360,1269)" font-size="7" style="fill:rgb(45, 112, 142)">gp</text>
+<text transform="translate(955,1592)" font-size="7" style="fill:rgb(46, 110, 142)">handsanitizer</text>
+<text transform="translate(962,434)" font-size="7" style="fill:rgb(36, 135, 142)">rt17</text>
+<text transform="translate(1547,1709)" font-size="7" style="fill:rgb(112, 207, 87)">activists</text>
+<text transform="translate(816,1242)" font-size="7" style="fill:rgb(72, 41, 121)">geographyteacher</text>
+<text transform="translate(805,622)" font-size="7" style="fill:rgb(66, 63, 133)">nstnation</text>
+<text transform="translate(479,541)" font-size="7" style="fill:rgb(54, 92, 141)">bad</text>
+<text transform="translate(927,1569)" font-size="7" style="fill:rgb(68, 191, 112)">citicbs</text>
+<text transform="translate(905,780) rotate(-90)" font-size="7" style="fill:rgb(71, 47, 125)">farming</text>
+<text transform="translate(776,817)" font-size="7" style="fill:rgb(55, 184, 120)">dalian</text>
+<text transform="translate(672,1745)" font-size="7" style="fill:rgb(194, 223, 35)">procurement</text>
+<text transform="translate(706,264)" font-size="7" style="fill:rgb(88, 199, 101)">agrifish</text>
+<text transform="translate(1381,475)" font-size="7" style="fill:rgb(72, 29, 111)">humphreybo</text>
+<text transform="translate(1432,1738) rotate(-90)" font-size="7" style="fill:rgb(45, 112, 142)">jabatanpenerangan</text>
+<text transform="translate(901,396)" font-size="7" style="fill:rgb(71, 47, 125)">joysms</text>
+<text transform="translate(1042,1118)" font-size="6" style="fill:rgb(216, 226, 25)">mpocmarkethighlights</text>
+<text transform="translate(694,1751)" font-size="6" style="fill:rgb(40, 174, 128)">thezoo</text>
+<text transform="translate(978,549)" font-size="6" style="fill:rgb(70, 10, 93)">boots</text>
+<text transform="translate(1380,482)" font-size="6" style="fill:rgb(178, 221, 45)">production</text>
+<text transform="translate(1411,1263)" font-size="6" style="fill:rgb(42, 120, 142)">xthehaze</text>
+<text transform="translate(1549,783)" font-size="6" style="fill:rgb(70, 48, 126)">extinct</text>
+<text transform="translate(1752,839)" font-size="6" style="fill:rgb(71, 13, 96)">animal</text>
+<text transform="translate(466,213)" font-size="6" style="fill:rgb(33, 145, 140)">african</text>
+<text transform="translate(346,689)" font-size="6" style="fill:rgb(33, 142, 141)">soyoil</text>
+<text transform="translate(1230,1728) rotate(-90)" font-size="6" style="fill:rgb(55, 184, 120)">ecology</text>
+<text transform="translate(896,723)" font-size="6" style="fill:rgb(40, 174, 128)">sayangimalaysiaku</text>
+<text transform="translate(1378,954)" font-size="6" style="fill:rgb(70, 48, 126)">ostern</text>
+<text transform="translate(1286,632)" font-size="6" style="fill:rgb(221, 227, 24)">intlforestday</text>
+<text transform="translate(638,1628)" font-size="6" style="fill:rgb(44, 114, 142)">rhinos</text>
+<text transform="translate(683,598)" font-size="6" style="fill:rgb(72, 26, 108)">video</text>
+<text transform="translate(1145,545)" font-size="6" style="fill:rgb(70, 11, 94)">ヴィーガン</text>
+<text transform="translate(869,610)" font-size="6" style="fill:rgb(70, 192, 111)">fitness</text>
+<text transform="translate(929,1546)" font-size="6" style="fill:rgb(94, 201, 98)">rapeseed</text>
+<text transform="translate(913,1493)" font-size="6" style="fill:rgb(31, 149, 139)">tpp</text>
+<text transform="translate(1460,813)" font-size="6" style="fill:rgb(32, 146, 140)">bigadventgiveaway</text>
+<text transform="translate(1330,1159)" font-size="6" style="fill:rgb(84, 197, 104)">politics</text>
+<text transform="translate(1407,1246)" font-size="6" style="fill:rgb(39, 173, 129)">cop22</text>
+<text transform="translate(1543,1037) rotate(-90)" font-size="6" style="fill:rgb(71, 44, 122)">suffer</text>
+<text transform="translate(1198,1592)" font-size="6" style="fill:rgb(94, 201, 98)">tocotrienols</text>
+<text transform="translate(1193,860)" font-size="6" style="fill:rgb(231, 228, 25)">animalcruelty</text>
+<text transform="translate(1375,1072) rotate(-90)" font-size="6" style="fill:rgb(31, 158, 137)">mahathirmohamad</text>
+<text transform="translate(951,1672)" font-size="6" style="fill:rgb(42, 119, 142)">coronnavirus</text>
+<text transform="translate(869,1337)" font-size="6" style="fill:rgb(72, 24, 106)">destruction</text>
+<text transform="translate(520,302)" font-size="6" style="fill:rgb(72, 193, 110)">palmolein</text>
+<text transform="translate(1198,894)" font-size="6" style="fill:rgb(176, 221, 47)">peatlands</text>
+<text transform="translate(809,744)" font-size="6" style="fill:rgb(43, 117, 142)">investorconference2016</text>
+<text transform="translate(1007,944)" font-size="6" style="fill:rgb(42, 118, 142)">superbowl</text>
+<text transform="translate(1433,1795)" font-size="6" style="fill:rgb(34, 167, 133)">biomass</text>
+<text transform="translate(916,614)" font-size="6" style="fill:rgb(65, 66, 135)">brighton</text>
+<text transform="translate(1099,743)" font-size="6" style="fill:rgb(115, 208, 86)">girlscoutcookies</text>
+<text transform="translate(533,1795)" font-size="6" style="fill:rgb(115, 208, 86)">uniteblue</text>
+<text transform="translate(817,1458)" font-size="6" style="fill:rgb(32, 147, 140)">ioi</text>
+<text transform="translate(1195,621)" font-size="6" style="fill:rgb(58, 186, 118)">sugar</text>
+<text transform="translate(708,241)" font-size="6" style="fill:rgb(68, 1, 84)">パーム油</text>
+<text transform="translate(732,1736)" font-size="6" style="fill:rgb(54, 92, 141)">indian</text>
+<text transform="translate(831,1135)" font-size="6" style="fill:rgb(64, 189, 114)">keeptheban</text>
+<text transform="translate(1125,1723) rotate(-90)" font-size="6" style="fill:rgb(64, 189, 114)">kfcnogood</text>
+<text transform="translate(1118,349)" font-size="6" style="fill:rgb(132, 212, 75)">makeinindia</text>
+<text transform="translate(313,257)" font-size="6" style="fill:rgb(96, 202, 96)">ostereier</text>
+<text transform="translate(1192,980)" font-size="6" style="fill:rgb(142, 214, 69)">sustainably</text>
+<text transform="translate(1266,745)" font-size="6" style="fill:rgb(66, 190, 113)">newquay</text>
+<text transform="translate(1423,1639)" font-size="6" style="fill:rgb(71, 17, 100)">technology</text>
+<text transform="translate(884,625)" font-size="6" style="fill:rgb(31, 161, 136)">iluc</text>
+<text transform="translate(473,587)" font-size="6" style="fill:rgb(72, 33, 115)">worldenvironmentday</text>
+<text transform="translate(854,872)" font-size="6" style="fill:rgb(80, 196, 106)">hongkong</text>
+<text transform="translate(1032,1173)" font-size="6" style="fill:rgb(70, 8, 92)">rbd</text>
+<text transform="translate(1541,996)" font-size="6" style="fill:rgb(35, 136, 142)">eurekamag</text>
+<text transform="translate(1604,860)" font-size="6" style="fill:rgb(56, 89, 140)">ベジタリアン</text>
+<text transform="translate(689,518)" font-size="6" style="fill:rgb(39, 127, 142)">earthdayresolution</text>
+<text transform="translate(707,1762)" font-size="6" style="fill:rgb(208, 225, 28)">fdi</text>
+<text transform="translate(1180,816)" font-size="6" style="fill:rgb(68, 58, 131)">palmiticacid</text>
+<text transform="translate(371,638)" font-size="6" style="fill:rgb(48, 106, 142)">palmoilprice</text>
+<text transform="translate(923,779) rotate(-90)" font-size="6" style="fill:rgb(41, 175, 127)">africanproverb</text>
+<text transform="translate(1077,1592)" font-size="6" style="fill:rgb(64, 70, 136)">children</text>
+<text transform="translate(1342,887)" font-size="6" style="fill:rgb(71, 16, 99)">glfcop20</text>
+<text transform="translate(658,681)" font-size="6" style="fill:rgb(110, 206, 88)">foodsecurity</text>
+<text transform="translate(962,639) rotate(-90)" font-size="6" style="fill:rgb(103, 204, 92)">palmoilchallenge</text>
+<text transform="translate(813,837)" font-size="6" style="fill:rgb(38, 129, 142)">love</text>
+<text transform="translate(899,805)" font-size="6" style="fill:rgb(33, 144, 141)">marketing</text>
+<text transform="translate(1376,925)" font-size="6" style="fill:rgb(69, 4, 87)">co2</text>
+<text transform="translate(668,410)" font-size="6" style="fill:rgb(56, 89, 140)">kingof</text>
+<text transform="translate(499,252)" font-size="6" style="fill:rgb(96, 202, 96)">canada</text>
+<text transform="translate(1267,894)" font-size="6" style="fill:rgb(71, 46, 124)">ecuador</text>
+<text transform="translate(725,1778)" font-size="6" style="fill:rgb(115, 208, 86)">mpo100years</text>
+<text transform="translate(394,610)" font-size="6" style="fill:rgb(33, 145, 140)">ベジ6</text>
+<text transform="translate(1694,848)" font-size="6" style="fill:rgb(147, 215, 65)">動物の権利</text>
+<text transform="translate(1684,803)" font-size="6" style="fill:rgb(74, 193, 109)">lka</text>
+<text transform="translate(859,1157)" font-size="6" style="fill:rgb(53, 183, 121)">agroindustrial</text>
+<text transform="translate(916,1744) rotate(-90)" font-size="6" style="fill:rgb(72, 193, 110)">cheferica</text>
+<text transform="translate(1297,654)" font-size="6" style="fill:rgb(184, 222, 41)">orangutanes</text>
+<text transform="translate(1124,571) rotate(-90)" font-size="6" style="fill:rgb(70, 192, 111)">smallholder</text>
+<text transform="translate(1204,583)" font-size="6" style="fill:rgb(99, 203, 95)">ban</text>
+<text transform="translate(1563,1763)" font-size="6" style="fill:rgb(42, 118, 142)">coronavirus</text>
+<text transform="translate(1096,232)" font-size="6" style="fill:rgb(47, 107, 142)">grains</text>
+<text transform="translate(606,377)" font-size="6" style="fill:rgb(70, 50, 126)">prices</text>
+<text transform="translate(527,561)" font-size="6" style="fill:rgb(184, 222, 41)">savemotherearth</text>
+<text transform="translate(868,1547)" font-size="6" style="fill:rgb(38, 130, 142)">commoditynews</text>
+<text transform="translate(1531,1002)" font-size="6" style="fill:rgb(33, 166, 133)">grnbz</text>
+<text transform="translate(1115,708)" font-size="6" style="fill:rgb(231, 228, 25)">importedoils</text>
+<text transform="translate(1331,806)" font-size="6" style="fill:rgb(72, 40, 120)">kemitafoods</text>
+<text transform="translate(473,696)" font-size="6" style="fill:rgb(39, 173, 129)">saturated</text>
+<text transform="translate(1131,1023)" font-size="6" style="fill:rgb(189, 223, 38)">breaking</text>
+<text transform="translate(894,1018)" font-size="6" style="fill:rgb(69, 56, 130)">cultures</text>
+<text transform="translate(1134,923)" font-size="6" style="fill:rgb(52, 182, 121)">mpoceurope</text>
+<text transform="translate(628,489)" font-size="6" style="fill:rgb(66, 190, 113)">bmd</text>
+<text transform="translate(854,1276)" font-size="6" style="fill:rgb(32, 164, 134)">cgfsummit</text>
+<text transform="translate(1068,392)" font-size="6" style="fill:rgb(152, 216, 62)">iot</text>
+<text transform="translate(410,591)" font-size="6" style="fill:rgb(70, 52, 128)">butterfly</text>
+<text transform="translate(1245,691)" font-size="6" style="fill:rgb(35, 169, 131)">rttc</text>
+<text transform="translate(1159,1794)" font-size="5" style="fill:rgb(80, 196, 106)">solidaritywithpalmoilworkers</text>
+<text transform="translate(1268,876)" font-size="5" style="fill:rgb(66, 190, 113)">output</text>
+<text transform="translate(1408,1159)" font-size="5" style="fill:rgb(205, 225, 29)">durable</text>
+<text transform="translate(1281,1794)" font-size="5" style="fill:rgb(246, 230, 32)">endangeredspeciesday</text>
+<text transform="translate(816,1331) rotate(-90)" font-size="5" style="fill:rgb(32, 164, 134)">knowyourpalm</text>
+<text transform="translate(625,1712)" font-size="5" style="fill:rgb(63, 188, 115)">markets</text>
+<text transform="translate(1457,1653)" font-size="5" style="fill:rgb(246, 230, 32)">trees</text>
+<text transform="translate(640,586)" font-size="5" style="fill:rgb(52, 182, 121)">water</text>
+<text transform="translate(1522,1794)" font-size="5" style="fill:rgb(61, 78, 138)">waystoenjoyagoodlife</text>
+<text transform="translate(1228,280)" font-size="5" style="fill:rgb(72, 28, 110)">worldbank</text>
+<text transform="translate(1041,860)" font-size="5" style="fill:rgb(66, 63, 133)">cdnpoli</text>
+<text transform="translate(1308,1303)" font-size="5" style="fill:rgb(71, 47, 125)">ericaneo</text>
+<text transform="translate(1080,992)" font-size="5" style="fill:rgb(30, 157, 137)">save</text>
+<text transform="translate(684,1671)" font-size="5" style="fill:rgb(30, 157, 137)">internationalwomensday</text>
+<text transform="translate(1365,1795)" font-size="5" style="fill:rgb(58, 186, 118)">teamfollowback</text>
+<text transform="translate(240,296)" font-size="5" style="fill:rgb(36, 135, 142)">competition</text>
+<text transform="translate(618,215)" font-size="5" style="fill:rgb(71, 47, 125)">i_refuse</text>
+<text transform="translate(733,406)" font-size="5" style="fill:rgb(31, 158, 137)">mars</text>
+<text transform="translate(771,758)" font-size="5" style="fill:rgb(76, 194, 108)">sussex</text>
+<text transform="translate(216,304)" font-size="5" style="fill:rgb(58, 84, 140)">change</text>
+<text transform="translate(1383,1517) rotate(-90)" font-size="5" style="fill:rgb(35, 138, 141)">extinctionrebellion</text>
+<text transform="translate(1557,1020)" font-size="5" style="fill:rgb(147, 215, 65)">bbc</text>
+<text transform="translate(1399,891)" font-size="5" style="fill:rgb(43, 117, 142)">dirtypalmoil</text>
+<text transform="translate(1528,841)" font-size="5" style="fill:rgb(181, 222, 43)">nepal</text>
+<text transform="translate(847,595)" font-size="5" style="fill:rgb(42, 120, 142)">cholesterol</text>
+<text transform="translate(852,885)" font-size="5" style="fill:rgb(52, 182, 121)">citinews</text>
+<text transform="translate(1171,787)" font-size="5" style="fill:rgb(61, 77, 138)">conflict</text>
+<text transform="translate(1067,1573)" font-size="5" style="fill:rgb(43, 116, 142)">innovation</text>
+<text transform="translate(970,1017) rotate(-90)" font-size="5" style="fill:rgb(46, 179, 124)">investment</text>
+<text transform="translate(1144,365)" font-size="5" style="fill:rgb(41, 121, 142)">conservationists</text>
+<text transform="translate(893,1293)" font-size="5" style="fill:rgb(149, 216, 64)">eastafrica</text>
+<text transform="translate(761,551)" font-size="5" style="fill:rgb(223, 227, 24)">vegetable</text>
+<text transform="translate(1117,689)" font-size="5" style="fill:rgb(189, 223, 38)">climatejustice</text>
+<text transform="translate(1079,680)" font-size="5" style="fill:rgb(165, 219, 54)">pacific</text>
+<text transform="translate(868,1039)" font-size="5" style="fill:rgb(62, 73, 137)">zerowaste</text>
+<text transform="translate(443,573)" font-size="5" style="fill:rgb(189, 223, 38)">shampoo</text>
+<text transform="translate(786,953)" font-size="5" style="fill:rgb(248, 230, 33)">itswhatwedo</text>
+<text transform="translate(1480,793)" font-size="5" style="fill:rgb(66, 190, 113)">russia</text>
+<text transform="translate(1359,1758)" font-size="5" style="fill:rgb(41, 123, 142)">dasuki</text>
+<text transform="translate(681,487)" font-size="5" style="fill:rgb(38, 129, 142)">fruit</text>
+<text transform="translate(1100,653) rotate(-90)" font-size="5" style="fill:rgb(72, 27, 109)">okbye</text>
+<text transform="translate(1456,1002)" font-size="5" style="fill:rgb(53, 94, 141)">reforestation</text>
+<text transform="translate(1102,1100)" font-size="5" style="fill:rgb(105, 205, 91)">article370</text>
+<text transform="translate(1312,1330)" font-size="5" style="fill:rgb(33, 145, 140)">cornwall</text>
+<text transform="translate(1060,581)" font-size="5" style="fill:rgb(37, 131, 142)">project18</text>
+<text transform="translate(1167,670)" font-size="5" style="fill:rgb(37, 133, 142)">savetigersnow</text>
+<text transform="translate(1010,1777)" font-size="5" style="fill:rgb(234, 229, 26)">bizhumanrights</text>
+<text transform="translate(1062,520)" font-size="5" style="fill:rgb(162, 218, 55)">dejiadeyanju</text>
+<text transform="translate(808,1632)" font-size="5" style="fill:rgb(34, 167, 133)">ethics</text>
+<text transform="translate(1677,1101)" font-size="5" style="fill:rgb(69, 5, 89)">forestfires</text>
+<text transform="translate(1343,710)" font-size="5" style="fill:rgb(72, 38, 119)">samuelogundipe</text>
+<text transform="translate(881,851)" font-size="5" style="fill:rgb(37, 133, 142)">walteronnoghen</text>
+<text transform="translate(918,644)" font-size="5" style="fill:rgb(55, 90, 140)">cpoprice</text>
+<text transform="translate(1158,1695)" font-size="5" style="fill:rgb(72, 35, 116)">followthefrog</text>
+<text transform="translate(588,303)" font-size="5" style="fill:rgb(57, 86, 140)">wedonthavetime</text>
+<text transform="translate(1400,1617) rotate(-90)" font-size="5" style="fill:rgb(101, 203, 94)">fire</text>
+<text transform="translate(1061,872)" font-size="5" style="fill:rgb(129, 211, 77)">demand</text>
+<text transform="translate(916,836)" font-size="5" style="fill:rgb(34, 139, 141)">lowongan</text>
+<text transform="translate(1294,1584)" font-size="5" style="fill:rgb(76, 194, 108)">rip</text>
+<text transform="translate(1199,1173)" font-size="5" style="fill:rgb(54, 92, 141)">moregreasetoyourelbow</text>
+<text transform="translate(862,472)" font-size="5" style="fill:rgb(236, 229, 27)">palmoildata</text>
+<text transform="translate(959,1383)" font-size="5" style="fill:rgb(71, 42, 122)">raw</text>
+<text transform="translate(1122,630)" font-size="5" style="fill:rgb(31, 153, 138)">tesco</text>
+<text transform="translate(1461,1794)" font-size="5" style="fill:rgb(34, 168, 132)">togetherweprogress</text>
+<text transform="translate(883,999)" font-size="5" style="fill:rgb(43, 116, 142)">hsbc</text>
+<text transform="translate(1348,491) rotate(-90)" font-size="5" style="fill:rgb(181, 222, 43)">lifestyle</text>
+<text transform="translate(730,486)" font-size="5" style="fill:rgb(82, 197, 105)">solar</text>
+<text transform="translate(1364,1206)" font-size="5" style="fill:rgb(200, 224, 32)">thoughtfortheday</text>
+<text transform="translate(414,288)" font-size="5" style="fill:rgb(72, 20, 103)">agroforestry</text>
+<text transform="translate(1121,282)" font-size="5" style="fill:rgb(46, 179, 124)">consumer</text>
+<text transform="translate(1466,1733)" font-size="5" style="fill:rgb(31, 150, 139)">cqg</text>
+<text transform="translate(1326,400)" font-size="5" style="fill:rgb(53, 183, 121)">naturalhabitat</text>
+<text transform="translate(920,414)" font-size="5" style="fill:rgb(96, 202, 96)">poverty</text>
+<text transform="translate(801,355)" font-size="5" style="fill:rgb(71, 19, 101)">qst</text>
+<text transform="translate(716,285)" font-size="5" style="fill:rgb(64, 70, 136)">thechatroomng</text>
+<text transform="translate(1316,1132)" font-size="5" style="fill:rgb(40, 174, 128)">jeniereaders</text>
+<text transform="translate(920,581)" font-size="5" style="fill:rgb(47, 107, 142)">pr</text>
+<text transform="translate(852,418)" font-size="5" style="fill:rgb(66, 63, 133)">s14</text>
+<text transform="translate(1058,731)" font-size="5" style="fill:rgb(71, 42, 122)">epa</text>
+<text transform="translate(990,1553)" font-size="5" style="fill:rgb(64, 70, 136)">mpo</text>
+<text transform="translate(1268,1157)" font-size="5" style="fill:rgb(69, 5, 89)">worldkindnessday</text>
+<text transform="translate(1032,822)" font-size="5" style="fill:rgb(60, 79, 138)">amazonrainforest</text>
+<text transform="translate(1005,1672)" font-size="5" style="fill:rgb(105, 205, 91)">extinctionisforever</text>
+<text transform="translate(480,662)" font-size="5" style="fill:rgb(40, 124, 142)">foodindustry</text>
+<text transform="translate(1499,1721)" font-size="5" style="fill:rgb(49, 181, 123)">mnf</text>
+<text transform="translate(915,627)" font-size="5" style="fill:rgb(72, 26, 108)">species</text>
+<text transform="translate(970,463) rotate(-90)" font-size="5" style="fill:rgb(194, 223, 35)">investing</text>
+<text transform="translate(1233,1690)" font-size="5" style="fill:rgb(239, 229, 28)">pal</text>
+<text transform="translate(1155,1670)" font-size="5" style="fill:rgb(70, 11, 94)">savingtheorangutan</text>
+<text transform="translate(552,221)" font-size="5" style="fill:rgb(49, 181, 123)">internationaltigerday</text>
+<text transform="translate(1123,980)" font-size="5" style="fill:rgb(34, 141, 141)">palmoilfreechristmas</text>
+<text transform="translate(692,420)" font-size="5" style="fill:rgb(105, 205, 91)">socialmedia</text>
+<text transform="translate(1084,1060)" font-size="5" style="fill:rgb(44, 114, 142)">veganhour</text>
+<text transform="translate(628,1717)" font-size="5" style="fill:rgb(69, 56, 130)">berita</text>
+<text transform="translate(1271,1618) rotate(-90)" font-size="5" style="fill:rgb(234, 229, 26)">worldnews</text>
+<text transform="translate(952,1516) rotate(-90)" font-size="5" style="fill:rgb(38, 130, 142)">epoc2017</text>
+<text transform="translate(819,487)" font-size="5" style="fill:rgb(58, 84, 140)">freeslaveapes</text>
+<text transform="translate(972,836)" font-size="5" style="fill:rgb(189, 223, 38)">greenenergy</text>
+<text transform="translate(1587,783)" font-size="5" style="fill:rgb(32, 163, 134)">ripleekuanyew</text>
+<text transform="translate(592,1775)" font-size="5" style="fill:rgb(43, 116, 142)">sayangisawitku</text>
+<text transform="translate(1269,422)" font-size="5" style="fill:rgb(42, 118, 142)">winitwednesday</text>
+<text transform="translate(859,1368)" font-size="5" style="fill:rgb(152, 216, 62)">пасхальныхяйцах</text>
+<text transform="translate(1014,1704)" font-size="5" style="fill:rgb(39, 173, 129)">原棕油期货</text>
+<text transform="translate(1373,1763)" font-size="5" style="fill:rgb(178, 221, 45)">robots</text>
+<text transform="translate(788,705)" font-size="5" style="fill:rgb(63, 71, 136)">ecosystems</text>
+<text transform="translate(746,990) rotate(-90)" font-size="5" style="fill:rgb(61, 78, 138)">endbadgovernmentinnigeria</text>
+<text transform="translate(1128,580)" font-size="5" style="fill:rgb(38, 173, 129)">grocery</text>
+<text transform="translate(1164,1099)" font-size="5" style="fill:rgb(112, 207, 87)">metastasis</text>
+<text transform="translate(746,787)" font-size="5" style="fill:rgb(84, 197, 104)">orangutang</text>
+<text transform="translate(1365,1336)" font-size="5" style="fill:rgb(63, 72, 137)">espn</text>
+<text transform="translate(1064,438)" font-size="5" style="fill:rgb(70, 52, 128)">global</text>
+<text transform="translate(828,1554) rotate(-90)" font-size="5" style="fill:rgb(137, 213, 72)">indomieshareurstyle</text>
+<text transform="translate(899,1347)" font-size="5" style="fill:rgb(71, 13, 96)">industry40</text>
+<text transform="translate(891,1615)" font-size="5" style="fill:rgb(170, 220, 50)">saveourplanet</text>
+<text transform="translate(778,900)" font-size="5" style="fill:rgb(42, 120, 142)">toomanycows</text>
+<text transform="translate(818,543)" font-size="5" style="fill:rgb(92, 200, 99)">wlf</text>
+<text transform="translate(1462,1059)" font-size="5" style="fill:rgb(37, 171, 130)">brands</text>
+<text transform="translate(1205,1101)" font-size="5" style="fill:rgb(36, 170, 131)">cashew</text>
+<text transform="translate(1043,739)" font-size="5" style="fill:rgb(38, 130, 142)">congobasin</text>
+<text transform="translate(1189,235)" font-size="5" style="fill:rgb(33, 142, 141)">cpopc</text>
+<text transform="translate(995,420)" font-size="5" style="fill:rgb(31, 162, 135)">mining</text>
+<text transform="translate(334,717)" font-size="5" style="fill:rgb(31, 154, 138)">plantersunited</text>
+<text transform="translate(814,806)" font-size="5" style="fill:rgb(68, 59, 132)">aceh</text>
+<text transform="translate(1033,347)" font-size="5" style="fill:rgb(181, 222, 43)">caturday</text>
+<text transform="translate(837,829)" font-size="5" style="fill:rgb(176, 221, 47)">chesterzoo</text>
+<text transform="translate(1223,1609)" font-size="5" style="fill:rgb(117, 208, 84)">ghg</text>
+<text transform="translate(900,566) rotate(-90)" font-size="5" style="fill:rgb(184, 222, 41)">palmoilisnotvegan</text>
+<text transform="translate(1144,263)" font-size="5" style="fill:rgb(46, 110, 142)">马来西亚棕油期货</text>
+<text transform="translate(1494,1032)" font-size="5" style="fill:rgb(216, 226, 25)">pekanbaru</text>
+<text transform="translate(1074,401)" font-size="5" style="fill:rgb(72, 29, 111)">sirdavidattenborough</text>
+<text transform="translate(1013,374)" font-size="5" style="fill:rgb(213, 226, 26)">crashthesuperbowl</text>
+<text transform="translate(906,571) rotate(-90)" font-size="5" style="fill:rgb(50, 182, 122)">defunddeforestation</text>
+<text transform="translate(1114,464)" font-size="5" style="fill:rgb(72, 29, 111)">companies</text>
+<text transform="translate(890,1190)" font-size="5" style="fill:rgb(37, 131, 142)">goodnews</text>
+<text transform="translate(1145,854)" font-size="5" style="fill:rgb(202, 225, 31)">oils</text>
+<text transform="translate(1544,840)" font-size="5" style="fill:rgb(99, 203, 95)">aceitedepalmano</text>
+<text transform="translate(846,1262)" font-size="5" style="fill:rgb(127, 211, 78)">certified</text>
+<text transform="translate(850,509)" font-size="5" style="fill:rgb(218, 227, 25)">development</text>
+<text transform="translate(924,1143)" font-size="5" style="fill:rgb(68, 2, 86)">europeanunion</text>
+<text transform="translate(555,691)" font-size="5" style="fill:rgb(33, 142, 141)">scientists</text>
+<text transform="translate(885,1639)" font-size="5" style="fill:rgb(168, 219, 52)">crudeoil</text>
+<text transform="translate(1155,1573)" font-size="5" style="fill:rgb(72, 33, 115)">epoc2016</text>
+<text transform="translate(746,404)" font-size="5" style="fill:rgb(30, 155, 138)">sunflower</text>
+<text transform="translate(972,646) rotate(-90)" font-size="5" style="fill:rgb(59, 187, 117)">climatechangethefacts</text>
+<text transform="translate(492,222)" font-size="5" style="fill:rgb(86, 198, 103)">emissions</text>
+<text transform="translate(1572,875)" font-size="5" style="fill:rgb(170, 220, 50)">fail</text>
+<text transform="translate(1230,625)" font-size="5" style="fill:rgb(66, 63, 133)">ngos</text>
+<text transform="translate(1007,1727)" font-size="5" style="fill:rgb(37, 132, 142)">paques</text>
+<text transform="translate(768,608)" font-size="5" style="fill:rgb(234, 229, 26)">referendum</text>
+<text transform="translate(1098,1745) rotate(-90)" font-size="5" style="fill:rgb(231, 228, 25)">worldpalmportraits</text>
+<text transform="translate(1107,674) rotate(-90)" font-size="5" style="fill:rgb(48, 106, 142)">babagodiswatchingyou</text>
+<text transform="translate(1141,1770)" font-size="5" style="fill:rgb(46, 109, 142)">eurtrspo</text>
+<text transform="translate(1156,301)" font-size="5" style="fill:rgb(61, 77, 138)">savetherainforests</text>
+<text transform="translate(738,1698)" font-size="5" style="fill:rgb(69, 5, 89)">bloomberg</text>
+<text transform="translate(1196,1052) rotate(-90)" font-size="5" style="fill:rgb(70, 50, 126)">indonesiadaruratasap</text>
+<text transform="translate(1523,879)" font-size="5" style="fill:rgb(70, 50, 126)">правачеловека</text>
+<text transform="translate(770,451)" font-size="5" style="fill:rgb(46, 109, 142)">boycotting</text>
+<text transform="translate(1262,1033)" font-size="5" style="fill:rgb(129, 211, 77)">policy</text>
+<text transform="translate(879,1511)" font-size="5" style="fill:rgb(35, 138, 141)">sixthextinction</text>
+<text transform="translate(1390,962)" font-size="5" style="fill:rgb(101, 203, 94)">workersrights</text>
+<text transform="translate(832,682)" font-size="5" style="fill:rgb(37, 171, 130)">cabinet</text>
+<text transform="translate(931,435)" font-size="5" style="fill:rgb(72, 28, 110)">hershey</text>
+<text transform="translate(1239,526)" font-size="5" style="fill:rgb(63, 188, 115)">mpocpakistan</text>
+<text transform="translate(1060,1699)" font-size="5" style="fill:rgb(68, 59, 132)">biogas</text>
+<text transform="translate(1160,609)" font-size="5" style="fill:rgb(33, 166, 133)">elitesmarketday</text>
+<text transform="translate(680,577) rotate(-90)" font-size="5" style="fill:rgb(71, 42, 122)">endangeredanimals</text>
+<text transform="translate(1351,732)" font-size="5" style="fill:rgb(74, 193, 109)">palmoilchart</text>
+<text transform="translate(1210,222)" font-size="5" style="fill:rgb(82, 197, 105)">timber</text>
+<text transform="translate(820,722)" font-size="5" style="fill:rgb(31, 152, 139)">tweetstorm</text>
+<text transform="translate(807,1651)" font-size="5" style="fill:rgb(119, 209, 83)">icecream</text>
+<text transform="translate(1726,841)" font-size="5" style="fill:rgb(226, 228, 24)">mahathir</text>
+<text transform="translate(1411,915)" font-size="5" style="fill:rgb(72, 29, 111)">natureisspeaking</text>
+<text transform="translate(1223,1057) rotate(-90)" font-size="5" style="fill:rgb(45, 112, 142)">palmbenefits</text>
+<text transform="translate(463,328)" font-size="5" style="fill:rgb(30, 155, 138)">tanzania</text>
+<text transform="translate(1148,892)" font-size="5" style="fill:rgb(94, 201, 98)">aldubbahaynilola</text>
+<text transform="translate(1107,1592)" font-size="5" style="fill:rgb(39, 173, 129)">edibleoils</text>
+<text transform="translate(1260,860)" font-size="5" style="fill:rgb(45, 112, 142)">strictly</text>
+<text transform="translate(1081,1043)" font-size="5" style="fill:rgb(108, 205, 90)">wednesdaywisdom</text>
+<text transform="translate(739,1723)" font-size="5" style="fill:rgb(43, 117, 142)">help</text>
+<text transform="translate(1394,803) rotate(-90)" font-size="5" style="fill:rgb(112, 207, 87)">liarliarplanetsonfire</text>
+<text transform="translate(1679,1055)" font-size="5" style="fill:rgb(41, 123, 142)">dog</text>
+<text transform="translate(840,1222)" font-size="5" style="fill:rgb(55, 91, 141)">peat</text>
+<text transform="translate(746,489)" font-size="5" style="fill:rgb(53, 95, 141)">rebrandaspecies</text>
+<text transform="translate(951,467)" font-size="5" style="fill:rgb(88, 199, 101)">savetheforests</text>
+<text transform="translate(1225,1669)" font-size="5" style="fill:rgb(67, 62, 133)">wpppc</text>
+<text transform="translate(1518,963)" font-size="5" style="fill:rgb(86, 198, 103)">angelamerkel</text>
+<text transform="translate(1106,929)" font-size="5" style="fill:rgb(71, 47, 125)">climateactionnow</text>
+<text transform="translate(1238,1740) rotate(-90)" font-size="5" style="fill:rgb(31, 152, 139)">markethighlights</text>
+<text transform="translate(787,1744) rotate(-90)" font-size="5" style="fill:rgb(39, 173, 129)">responsiblesourcing</text>
+<text transform="translate(730,608)" font-size="5" style="fill:rgb(71, 45, 123)">saveibrahim</text>
+<text transform="translate(1217,301)" font-size="5" style="fill:rgb(30, 155, 138)">smoothie</text>
+<text transform="translate(886,1473)" font-size="5" style="fill:rgb(213, 226, 26)">startwith1thing</text>
+<text transform="translate(1435,922)" font-size="5" style="fill:rgb(49, 103, 142)">cepa</text>
+<text transform="translate(1372,400)" font-size="5" style="fill:rgb(34, 167, 133)">mpocc</text>
+<text transform="translate(1419,1020)" font-size="5" style="fill:rgb(50, 101, 142)">tcot</text>
+<text transform="translate(762,575)" font-size="5" style="fill:rgb(197, 224, 33)">avoidpalmoil</text>
+<text transform="translate(1335,1655)" font-size="5" style="fill:rgb(32, 146, 140)">date</text>
+<text transform="translate(1401,1752)" font-size="5" style="fill:rgb(71, 14, 97)">forestpositive</text>
+<text transform="translate(1509,1698)" font-size="5" style="fill:rgb(202, 225, 31)">no</text>
+<text transform="translate(746,814)" font-size="5" style="fill:rgb(30, 157, 137)">rtr</text>
+<text transform="translate(793,865)" font-size="5" style="fill:rgb(35, 136, 142)">thinklandscape</text>
+<text transform="translate(852,1388)" font-size="5" style="fill:rgb(96, 202, 96)">belgium</text>
+<text transform="translate(632,249)" font-size="5" style="fill:rgb(72, 31, 112)">photographer</text>
+<text transform="translate(592,375)" font-size="5" style="fill:rgb(57, 86, 140)">sign</text>
+<text transform="translate(1392,982)" font-size="5" style="fill:rgb(58, 84, 140)">agritech</text>
+<text transform="translate(1225,643)" font-size="5" style="fill:rgb(53, 183, 121)">bliss</text>
+<text transform="translate(832,409)" font-size="5" style="fill:rgb(46, 109, 142)">davidattenborough</text>
+<text transform="translate(1400,1253)" font-size="5" style="fill:rgb(56, 185, 119)">foodprices</text>
+<text transform="translate(1314,457)" font-size="5" style="fill:rgb(69, 56, 130)">hove</text>
+<text transform="translate(832,1197) rotate(-90)" font-size="5" style="fill:rgb(31, 148, 140)">indigenouspeoples</text>
+<text transform="translate(1048,1612)" font-size="5" style="fill:rgb(38, 129, 142)">natgeo</text>
+<text transform="translate(1332,1002)" font-size="5" style="fill:rgb(31, 158, 137)">veganism</text>
+<text transform="translate(446,636)" font-size="5" style="fill:rgb(94, 201, 98)">fat</text>
+<text transform="translate(1068,945)" font-size="5" style="fill:rgb(33, 142, 141)">rubber</text>
+<text transform="translate(797,654)" font-size="5" style="fill:rgb(69, 55, 129)">investigation</text>
+<text transform="translate(853,682)" font-size="5" style="fill:rgb(31, 152, 139)">standwithforests</text>
+<text transform="translate(1007,395)" font-size="5" style="fill:rgb(57, 85, 140)">wildforlife</text>
+<text transform="translate(1350,1726) rotate(-90)" font-size="5" style="fill:rgb(70, 10, 93)">goodtastesbetter</text>
+<text transform="translate(1301,1239)" font-size="5" style="fill:rgb(35, 138, 141)">sblii</text>
+<text transform="translate(821,901)" font-size="5" style="fill:rgb(70, 8, 92)">thisisthepepsi</text>
+<text transform="translate(749,1741)" font-size="5" style="fill:rgb(149, 216, 64)">gfw</text>
+<text transform="translate(1191,1190)" font-size="5" style="fill:rgb(246, 230, 32)">inanafricanhouse</text>
+<text transform="translate(908,1009)" font-size="5" style="fill:rgb(32, 147, 140)">integritytt</text>
+<text transform="translate(998,358)" font-size="5" style="fill:rgb(41, 121, 142)">investors</text>
+<text transform="translate(925,1647)" font-size="5" style="fill:rgb(37, 132, 142)">dontpalmusoff</text>
+<text transform="translate(606,1674)" font-size="5" style="fill:rgb(88, 199, 101)">gold</text>
+<text transform="translate(888,1434)" font-size="5" style="fill:rgb(119, 209, 83)">kenya</text>
+<text transform="translate(1377,1223)" font-size="5" style="fill:rgb(33, 165, 133)">stopepo</text>
+<text transform="translate(1370,740)" font-size="5" style="fill:rgb(78, 195, 107)">coal</text>
+<text transform="translate(499,276)" font-size="5" style="fill:rgb(72, 40, 120)">enddeforestation</text>
+<text transform="translate(759,335)" font-size="5" style="fill:rgb(31, 158, 137)">environmentalnews</text>
+<text transform="translate(592,1760)" font-size="5" style="fill:rgb(52, 97, 141)">freewestpapua</text>
+<text transform="translate(467,546)" font-size="5" style="fill:rgb(34, 140, 141)">guinea</text>
+<text transform="translate(1186,821)" font-size="5" style="fill:rgb(55, 90, 140)">icelandfoods</text>
+<text transform="translate(1088,760)" font-size="5" style="fill:rgb(34, 139, 141)">latinamerica</text>
+<text transform="translate(1206,1653) rotate(-90)" font-size="5" style="fill:rgb(168, 219, 52)">masihmelawanasap</text>
+<text transform="translate(1297,637)" font-size="5" style="fill:rgb(162, 218, 55)">eurt2017</text>
+<text transform="translate(358,259)" font-size="5" style="fill:rgb(31, 149, 139)">newzealand</text>
+<text transform="translate(574,1654)" font-size="5" style="fill:rgb(35, 169, 131)">onlinetrading</text>
+<text transform="translate(1185,576) rotate(-90)" font-size="5" style="fill:rgb(76, 194, 108)">pepsigenerations</text>
+<text transform="translate(881,634)" font-size="5" style="fill:rgb(63, 188, 115)">recipes</text>
+<text transform="translate(1150,1015) rotate(-90)" font-size="5" style="fill:rgb(53, 95, 141)">fmcg</text>
+<text transform="translate(660,605)" font-size="5" style="fill:rgb(186, 222, 40)">healthyfood</text>
+<text transform="translate(964,745)" font-size="5" style="fill:rgb(132, 212, 75)">mamadorelitedish</text>
+<text transform="translate(504,347)" font-size="5" style="fill:rgb(36, 170, 131)">palmfree</text>
+<text transform="translate(844,1503) rotate(-90)" font-size="5" style="fill:rgb(51, 98, 141)">saveleuserecosystem</text>
+<text transform="translate(864,490)" font-size="5" style="fill:rgb(72, 38, 119)">education</text>
+<text transform="translate(1089,971)" font-size="5" style="fill:rgb(229, 228, 25)">filthypalmoil</text>
+<text transform="translate(1296,1042) rotate(-90)" font-size="5" style="fill:rgb(72, 35, 116)">orangutanextinction</text>
+<text transform="translate(706,628)" font-size="5" style="fill:rgb(127, 211, 78)">snacks</text>
+<text transform="translate(874,1457)" font-size="4" style="fill:rgb(47, 107, 142)">sustainabledevelopment</text>
+<text transform="translate(907,522)" font-size="4" style="fill:rgb(48, 106, 142)">cutconflictpalmoil</text>
+<text transform="translate(1064,252)" font-size="4" style="fill:rgb(55, 91, 141)">earthshotprize</text>
+<text transform="translate(1637,1009)" font-size="4" style="fill:rgb(103, 204, 92)">iiot</text>
+<text transform="translate(1382,1716)" font-size="4" style="fill:rgb(178, 221, 45)">shopping</text>
+<text transform="translate(1211,1218)" font-size="4" style="fill:rgb(36, 134, 142)">violence</text>
+<text transform="translate(899,1354)" font-size="4" style="fill:rgb(72, 24, 106)">bapakakupeneroka</text>
+<text transform="translate(1243,1157)" font-size="4" style="fill:rgb(61, 188, 116)">foodlover</text>
+<text transform="translate(779,377)" font-size="4" style="fill:rgb(36, 170, 131)">habitatloss</text>
+<text transform="translate(627,376)" font-size="4" style="fill:rgb(189, 223, 38)">loopholes</text>
+<text transform="translate(1473,848)" font-size="4" style="fill:rgb(202, 225, 31)">prescientinfo</text>
+<text transform="translate(1067,535)" font-size="4" style="fill:rgb(36, 135, 142)">diy</text>
+<text transform="translate(1579,1747)" font-size="4" style="fill:rgb(58, 186, 118)">liveclean</text>
+<text transform="translate(1286,406)" font-size="4" style="fill:rgb(71, 44, 122)">myericamoments</text>
+<text transform="translate(1116,450)" font-size="4" style="fill:rgb(65, 68, 135)">smartnews</text>
+<text transform="translate(1222,263)" font-size="4" style="fill:rgb(34, 168, 132)">transfats</text>
+<text transform="translate(748,652)" font-size="4" style="fill:rgb(90, 200, 100)">workerabuse</text>
+<text transform="translate(937,682)" font-size="4" style="fill:rgb(38, 130, 142)">activism</text>
+<text transform="translate(778,845)" font-size="4" style="fill:rgb(52, 182, 121)">harrisonford</text>
+<text transform="translate(1320,445)" font-size="4" style="fill:rgb(69, 5, 89)">isf</text>
+<text transform="translate(570,666)" font-size="4" style="fill:rgb(43, 116, 142)">kisanvirodhinarendramodi</text>
+<text transform="translate(966,1391)" font-size="4" style="fill:rgb(31, 161, 135)">obama</text>
+<text transform="translate(1210,320)" font-size="4" style="fill:rgb(46, 179, 124)">british</text>
+<text transform="translate(1310,988)" font-size="4" style="fill:rgb(117, 208, 84)">renewable</text>
+<text transform="translate(1242,747)" font-size="4" style="fill:rgb(134, 213, 73)">gourmet</text>
+<text transform="translate(928,1624)" font-size="4" style="fill:rgb(173, 220, 48)">labour</text>
+<text transform="translate(687,302)" font-size="4" style="fill:rgb(39, 128, 142)">rice</text>
+<text transform="translate(904,1086)" font-size="4" style="fill:rgb(34, 141, 141)">sumatranelephant</text>
+<text transform="translate(1163,577) rotate(-90)" font-size="4" style="fill:rgb(92, 200, 99)">apoi</text>
+<text transform="translate(703,542)" font-size="4" style="fill:rgb(241, 229, 29)">modi</text>
+<text transform="translate(451,703)" font-size="4" style="fill:rgb(61, 188, 116)">gogreen</text>
+<text transform="translate(622,334)" font-size="4" style="fill:rgb(64, 189, 114)">government</text>
+<text transform="translate(1610,1773)" font-size="4" style="fill:rgb(69, 53, 129)">kelapasawit</text>
+<text transform="translate(918,619)" font-size="4" style="fill:rgb(115, 208, 86)">rt15</text>
+<text transform="translate(924,883)" font-size="4" style="fill:rgb(110, 206, 88)">un</text>
+<text transform="translate(664,232)" font-size="4" style="fill:rgb(71, 46, 124)">cdpforests</text>
+<text transform="translate(879,1405)" font-size="4" style="fill:rgb(142, 214, 69)">emefiele</text>
+<text transform="translate(864,1679)" font-size="4" style="fill:rgb(55, 91, 141)">sourcing</text>
+<text transform="translate(868,995)" font-size="4" style="fill:rgb(155, 217, 60)">asian</text>
+<text transform="translate(689,229)" font-size="4" style="fill:rgb(32, 164, 134)">devon</text>
+<text transform="translate(1138,1720)" font-size="4" style="fill:rgb(60, 79, 138)">fpic</text>
+<text transform="translate(1139,1613) rotate(-90)" font-size="4" style="fill:rgb(50, 100, 142)">gorillas</text>
+<text transform="translate(911,1279)" font-size="4" style="fill:rgb(68, 1, 84)">in</text>
+<text transform="translate(1185,1632) rotate(-90)" font-size="4" style="fill:rgb(33, 145, 140)">machinelearning</text>
+<text transform="translate(1144,313)" font-size="4" style="fill:rgb(72, 24, 106)">price</text>
+<text transform="translate(446,560)" font-size="4" style="fill:rgb(226, 228, 24)">tropical</text>
+<text transform="translate(753,677)" font-size="4" style="fill:rgb(72, 33, 115)">worldtigerday</text>
+<text transform="translate(1202,325)" font-size="4" style="fill:rgb(42, 119, 142)">vitamine</text>
+<text transform="translate(1168,1004)" font-size="4" style="fill:rgb(41, 121, 142)">adani</text>
+<text transform="translate(1355,985)" font-size="4" style="fill:rgb(58, 186, 118)">biafrans</text>
+<text transform="translate(957,1133) rotate(-90)" font-size="4" style="fill:rgb(43, 117, 142)">easteregg</text>
+<text transform="translate(1666,1063)" font-size="4" style="fill:rgb(53, 95, 141)">forestry</text>
+<text transform="translate(478,562)" font-size="4" style="fill:rgb(208, 225, 28)">palmoiltrivia</text>
+<text transform="translate(1225,659)" font-size="4" style="fill:rgb(96, 202, 96)">whopperchallenge</text>
+<text transform="translate(1190,562)" font-size="4" style="fill:rgb(60, 80, 139)">candles</text>
+<text transform="translate(1461,439)" font-size="4" style="fill:rgb(103, 204, 92)">elnino</text>
+<text transform="translate(1482,906)" font-size="4" style="fill:rgb(66, 64, 134)">ourplanet</text>
+<text transform="translate(1444,1673)" font-size="4" style="fill:rgb(71, 44, 122)">palmoilgreen</text>
+<text transform="translate(1242,1591)" font-size="4" style="fill:rgb(67, 62, 133)">parrototd</text>
+<text transform="translate(1200,441)" font-size="4" style="fill:rgb(62, 76, 138)">ณเพลานี้</text>
+<text transform="translate(1015,301)" font-size="4" style="fill:rgb(132, 212, 75)">art</text>
+<text transform="translate(866,343)" font-size="4" style="fill:rgb(119, 209, 83)">baking</text>
+<text transform="translate(1151,1594)" font-size="4" style="fill:rgb(72, 28, 110)">grain</text>
+<text transform="translate(1009,644) rotate(-90)" font-size="4" style="fill:rgb(53, 94, 141)">malaysianews</text>
+<text transform="translate(1231,815)" font-size="4" style="fill:rgb(57, 85, 140)">mangroves</text>
+<text transform="translate(1070,1578)" font-size="4" style="fill:rgb(63, 188, 115)">people</text>
+<text transform="translate(678,1614)" font-size="4" style="fill:rgb(38, 129, 142)">entrepreneur</text>
+<text transform="translate(1375,895)" font-size="4" style="fill:rgb(71, 44, 122)">ketogenic</text>
+<text transform="translate(588,1786)" font-size="4" style="fill:rgb(134, 213, 73)">lchf</text>
+<text transform="translate(988,1530)" font-size="4" style="fill:rgb(32, 163, 134)">sbs</text>
+<text transform="translate(682,582)" font-size="4" style="fill:rgb(119, 209, 83)">sustainableliving</text>
+<text transform="translate(459,308)" font-size="4" style="fill:rgb(147, 215, 65)">dl</text>
+<text transform="translate(1085,1607)" font-size="4" style="fill:rgb(47, 180, 124)">update</text>
+<text transform="translate(961,791)" font-size="4" style="fill:rgb(33, 142, 141)">cnn</text>
+<text transform="translate(1210,723) rotate(-90)" font-size="4" style="fill:rgb(70, 7, 90)">death</text>
+<text transform="translate(1018,309)" font-size="4" style="fill:rgb(43, 117, 142)">fistral</text>
+<text transform="translate(1531,1691)" font-size="4" style="fill:rgb(40, 174, 128)">pgemployee</text>
+<text transform="translate(865,723)" font-size="4" style="fill:rgb(76, 194, 108)">worthing</text>
+<text transform="translate(1311,1424) rotate(-90)" font-size="4" style="fill:rgb(30, 156, 137)">advertising</text>
+<text transform="translate(1530,1075)" font-size="4" style="fill:rgb(36, 134, 142)">aim</text>
+<text transform="translate(789,758)" font-size="4" style="fill:rgb(248, 230, 33)">bbctbq</text>
+<text transform="translate(1244,1794)" font-size="4" style="fill:rgb(35, 136, 142)">cookies</text>
+<text transform="translate(744,1706)" font-size="4" style="fill:rgb(33, 166, 133)">germany</text>
+<text transform="translate(548,545)" font-size="4" style="fill:rgb(157, 217, 59)">justice4saiful</text>
+<text transform="translate(501,1728)" font-size="4" style="fill:rgb(184, 222, 41)">melawanasap</text>
+<text transform="translate(1393,1006)" font-size="4" style="fill:rgb(96, 202, 96)">planting</text>
+<text transform="translate(556,366) rotate(-90)" font-size="4" style="fill:rgb(231, 228, 25)">supermarket</text>
+<text transform="translate(1013,1682)" font-size="4" style="fill:rgb(246, 230, 32)">bonobo</text>
+<text transform="translate(1306,731)" font-size="4" style="fill:rgb(170, 220, 50)">meadowlea</text>
+<text transform="translate(1330,778)" font-size="4" style="fill:rgb(202, 225, 31)">palme</text>
+<text transform="translate(803,1623)" font-size="4" style="fill:rgb(69, 56, 130)">ringgit</text>
+<text transform="translate(937,1733) rotate(-90)" font-size="4" style="fill:rgb(72, 38, 119)">savingspecies</text>
+<text transform="translate(1185,1059)" font-size="4" style="fill:rgb(210, 226, 27)">ถ้าการเมืองดี</text>
+<text transform="translate(1084,906)" font-size="4" style="fill:rgb(56, 89, 140)">honestmarketing</text>
+<text transform="translate(827,1599)" font-size="4" style="fill:rgb(46, 110, 142)">job</text>
+<text transform="translate(846,1744)" font-size="4" style="fill:rgb(31, 162, 135)">mbumomswhoblog</text>
+<text transform="translate(1507,1083)" font-size="4" style="fill:rgb(90, 200, 100)">modernslavery</text>
+<text transform="translate(887,1388)" font-size="4" style="fill:rgb(46, 179, 124)">worldfoodday</text>
+<text transform="translate(1723,849)" font-size="4" style="fill:rgb(61, 188, 116)">cbot</text>
+<text transform="translate(1264,762)" font-size="4" style="fill:rgb(56, 89, 140)">nigerianfood</text>
+<text transform="translate(814,844)" font-size="4" style="fill:rgb(52, 182, 121)">economictimes</text>
+<text transform="translate(1327,1648)" font-size="4" style="fill:rgb(52, 97, 141)">healthyeating</text>
+<text transform="translate(1130,1706)" font-size="4" style="fill:rgb(72, 37, 118)">tiaa</text>
+<text transform="translate(1045,745)" font-size="4" style="fill:rgb(31, 158, 137)">ethanol</text>
+<text transform="translate(400,621)" font-size="4" style="fill:rgb(37, 133, 142)">ethiopia</text>
+<text transform="translate(1251,532)" font-size="4" style="fill:rgb(72, 22, 104)">freebiafra</text>
+<text transform="translate(428,706)" font-size="4" style="fill:rgb(55, 184, 120)">genocide</text>
+<text transform="translate(862,1755) rotate(-90)" font-size="4" style="fill:rgb(42, 120, 142)">life</text>
+<text transform="translate(1357,1518) rotate(-90)" font-size="4" style="fill:rgb(31, 160, 136)">youdontfeargod</text>
+<text transform="translate(920,604)" font-size="4" style="fill:rgb(70, 192, 111)">anti</text>
+<text transform="translate(842,1707)" font-size="4" style="fill:rgb(74, 193, 109)">besingi</text>
+<text transform="translate(938,1743)" font-size="4" style="fill:rgb(186, 222, 40)">challengepepsi</text>
+<text transform="translate(761,743)" font-size="4" style="fill:rgb(45, 178, 125)">consumption</text>
+<text transform="translate(575,1661)" font-size="4" style="fill:rgb(72, 38, 119)">netherlands</text>
+<text transform="translate(1159,279)" font-size="4" style="fill:rgb(103, 204, 92)">standwithkashmir</text>
+<text transform="translate(984,1600)" font-size="4" style="fill:rgb(229, 228, 25)">total</text>
+<text transform="translate(1119,1766)" font-size="4" style="fill:rgb(246, 230, 32)">artist</text>
+<text transform="translate(1109,697)" font-size="4" style="fill:rgb(34, 168, 132)">britain</text>
+<text transform="translate(895,610)" font-size="4" style="fill:rgb(72, 35, 116)">cancers</text>
+<text transform="translate(1165,468)" font-size="4" style="fill:rgb(241, 229, 29)">environmentaljustice</text>
+<text transform="translate(1442,841)" font-size="4" style="fill:rgb(70, 10, 93)">gsblive</text>
+<text transform="translate(1058,713)" font-size="4" style="fill:rgb(31, 154, 138)">inequality</text>
+<text transform="translate(1140,427)" font-size="4" style="fill:rgb(34, 141, 141)">labor</text>
+<text transform="translate(1315,1542)" font-size="4" style="fill:rgb(46, 109, 142)">new</text>
+<text transform="translate(983,922)" font-size="4" style="fill:rgb(34, 167, 133)">tbt</text>
+<text transform="translate(1262,1121)" font-size="4" style="fill:rgb(42, 119, 142)">tips</text>
+<text transform="translate(1321,1097)" font-size="4" style="fill:rgb(90, 200, 100)">biodiversityloss</text>
+<text transform="translate(559,367)" font-size="4" style="fill:rgb(88, 199, 101)">carex</text>
+<text transform="translate(1444,815)" font-size="4" style="fill:rgb(71, 45, 123)">gifts</text>
+<text transform="translate(750,367)" font-size="4" style="fill:rgb(34, 140, 141)">technicalcharts</text>
+<text transform="translate(1256,845)" font-size="4" style="fill:rgb(184, 222, 41)">tripa</text>
+<text transform="translate(841,376)" font-size="4" style="fill:rgb(60, 80, 139)">valuechain</text>
+<text transform="translate(1019,1744)" font-size="4" style="fill:rgb(60, 80, 139)">cosmeticsindustrynews</text>
+<text transform="translate(848,1354)" font-size="4" style="fill:rgb(51, 99, 141)">environnement</text>
+<text transform="translate(792,942)" font-size="4" style="fill:rgb(43, 116, 142)">fats</text>
+<text transform="translate(1320,527)" font-size="4" style="fill:rgb(55, 184, 120)">heart</text>
+<text transform="translate(448,259)" font-size="4" style="fill:rgb(35, 137, 142)">labelpalmoil</text>
+<text transform="translate(873,358)" font-size="4" style="fill:rgb(38, 129, 142)">tiredearth</text>
+<text transform="translate(695,357)" font-size="4" style="fill:rgb(49, 104, 142)">act</text>
+<text transform="translate(1362,823)" font-size="4" style="fill:rgb(108, 205, 90)">cameroun</text>
+<text transform="translate(611,1779)" font-size="4" style="fill:rgb(49, 102, 142)">corporate</text>
+<text transform="translate(624,1672)" font-size="4" style="fill:rgb(36, 170, 131)">gsbiofuels</text>
+<text transform="translate(1381,1673)" font-size="4" style="fill:rgb(51, 98, 141)">nationaltreeweek</text>
+<text transform="translate(899,1196)" font-size="4" style="fill:rgb(41, 121, 142)">share</text>
+<text transform="translate(999,1794)" font-size="4" style="fill:rgb(72, 36, 117)">wildlifecrime</text>
+<text transform="translate(1000,580)" font-size="4" style="fill:rgb(45, 112, 142)">euandgvc</text>
+<text transform="translate(1163,885)" font-size="4" style="fill:rgb(34, 141, 141)">lestweforget</text>
+<text transform="translate(917,857)" font-size="4" style="fill:rgb(155, 217, 60)">ndpe</text>
+<text transform="translate(532,642) rotate(-90)" font-size="4" style="fill:rgb(57, 85, 140)">organicpalmoil</text>
+<text transform="translate(1040,281)" font-size="4" style="fill:rgb(205, 225, 29)">protect</text>
+<text transform="translate(849,1141)" font-size="4" style="fill:rgb(74, 193, 109)">retail</text>
+<text transform="translate(1009,611)" font-size="4" style="fill:rgb(67, 62, 133)">veganuary</text>
+<text transform="translate(845,556) rotate(-90)" font-size="4" style="fill:rgb(202, 225, 31)">waza</text>
+<text transform="translate(671,1753)" font-size="4" style="fill:rgb(40, 124, 142)">coffeeday</text>
+<text transform="translate(1399,1043) rotate(-90)" font-size="4" style="fill:rgb(41, 175, 127)">gohazefree</text>
+<text transform="translate(1017,1654)" font-size="4" style="fill:rgb(31, 150, 139)">guardian</text>
+<text transform="translate(1744,831)" font-size="4" style="fill:rgb(218, 227, 25)">healthyoils</text>
+<text transform="translate(867,578) rotate(-90)" font-size="4" style="fill:rgb(49, 104, 142)">kualalumpur</text>
+<text transform="translate(893,1243)" font-size="4" style="fill:rgb(41, 121, 142)">lifestylechange</text>
+<text transform="translate(1180,1716)" font-size="4" style="fill:rgb(71, 17, 100)">monkeys</text>
+<text transform="translate(784,714)" font-size="4" style="fill:rgb(45, 178, 125)">oott</text>
+<text transform="translate(1466,967)" font-size="4" style="fill:rgb(72, 20, 103)">palmoildialogue</text>
+<text transform="translate(1135,1691)" font-size="4" style="fill:rgb(112, 207, 87)">sb50</text>
+<text transform="translate(1264,659)" font-size="4" style="fill:rgb(34, 167, 133)">ukgifthour</text>
+<text transform="translate(363,235)" font-size="4" style="fill:rgb(46, 179, 124)">bangladesh</text>
+<text transform="translate(694,551)" font-size="4" style="fill:rgb(101, 203, 94)">commentary</text>
+<text transform="translate(893,371)" font-size="4" style="fill:rgb(178, 221, 45)">latino</text>
+<text transform="translate(680,1688) rotate(-90)" font-size="4" style="fill:rgb(47, 107, 142)">palmoilcuisines</text>
+<text transform="translate(494,1777)" font-size="4" style="fill:rgb(251, 231, 35)">phministerssaythedarnestthings</text>
+<text transform="translate(1190,1764)" font-size="4" style="fill:rgb(42, 176, 127)">seaford</text>
+<text transform="translate(538,508)" font-size="4" style="fill:rgb(122, 209, 81)">thursdaythoughts</text>
+<text transform="translate(1249,754)" font-size="4" style="fill:rgb(60, 80, 139)">biafraexit</text>
+<text transform="translate(1326,678)" font-size="4" style="fill:rgb(72, 22, 104)">chimpanzees</text>
+<text transform="translate(1379,1157)" font-size="4" style="fill:rgb(37, 131, 142)">eajapan</text>
+<text transform="translate(1493,1011)" font-size="4" style="fill:rgb(61, 78, 138)">future</text>
+<text transform="translate(869,828)" font-size="4" style="fill:rgb(32, 146, 140)">happeningnow</text>
+<text transform="translate(1182,930)" font-size="4" style="fill:rgb(57, 86, 140)">supply</text>
+<text transform="translate(1388,489)" font-size="4" style="fill:rgb(52, 97, 141)">artivist</text>
+<text transform="translate(855,1508)" font-size="4" style="fill:rgb(38, 130, 142)">foodies</text>
+<text transform="translate(854,1556) rotate(-90)" font-size="4" style="fill:rgb(42, 119, 142)">importduty</text>
+<text transform="translate(798,311)" font-size="4" style="fill:rgb(71, 19, 101)">iwnews</text>
+<text transform="translate(838,603)" font-size="4" style="fill:rgb(68, 2, 86)">law</text>
+<text transform="translate(1272,913)" font-size="4" style="fill:rgb(69, 53, 129)">redii</text>
+<text transform="translate(607,386)" font-size="4" style="fill:rgb(44, 177, 126)">socfin</text>
+<text transform="translate(576,1795)" font-size="4" style="fill:rgb(32, 163, 134)">campesinos</text>
+<text transform="translate(1272,558)" font-size="4" style="fill:rgb(72, 36, 117)">eugreendeal</text>
+<text transform="translate(967,1275) rotate(-90)" font-size="4" style="fill:rgb(137, 213, 72)">healthycookingoil</text>
+<text transform="translate(1326,1179)" font-size="4" style="fill:rgb(218, 227, 25)">justice</text>
+<text transform="translate(431,642)" font-size="4" style="fill:rgb(49, 181, 123)">nongmo</text>
+<text transform="translate(933,1593)" font-size="4" style="fill:rgb(70, 52, 128)">webinar</text>
+<text transform="translate(756,638) rotate(-90)" font-size="4" style="fill:rgb(37, 133, 142)">yukpintar</text>
+<text transform="translate(1204,1119)" font-size="4" style="fill:rgb(67, 61, 132)">пальмовым</text>
+<text transform="translate(792,476)" font-size="4" style="fill:rgb(30, 156, 137)">capitalism</text>
+<text transform="translate(762,899)" font-size="4" style="fill:rgb(134, 213, 73)">ipop</text>
+<text transform="translate(899,465)" font-size="4" style="fill:rgb(62, 74, 137)">negaraku</text>
+<text transform="translate(709,427)" font-size="4" style="fill:rgb(231, 228, 25)">opencall</text>
+<text transform="translate(1350,501)" font-size="4" style="fill:rgb(34, 168, 132)">palmportraits2021</text>
+<text transform="translate(1009,445)" font-size="4" style="fill:rgb(71, 46, 124)">peoplewhomademyyeargood</text>
+<text transform="translate(1032,736)" font-size="4" style="fill:rgb(72, 32, 113)">ran</text>
+<text transform="translate(665,266)" font-size="4" style="fill:rgb(248, 230, 33)">rebelreporting</text>
+<text transform="translate(1626,1014)" font-size="4" style="fill:rgb(72, 36, 117)">africanfood</text>
+<text transform="translate(1358,716)" font-size="4" style="fill:rgb(70, 192, 111)">blackfriday</text>
+<text transform="translate(764,979)" font-size="4" style="fill:rgb(71, 16, 99)">facts</text>
+<text transform="translate(1373,1212)" font-size="4" style="fill:rgb(66, 65, 134)">fdlx</text>
+<text transform="translate(468,701)" font-size="4" style="fill:rgb(32, 164, 134)">quotes</text>
+<text transform="translate(1263,1097)" font-size="4" style="fill:rgb(63, 72, 137)">worldtapirday</text>
+<text transform="translate(1288,532)" font-size="4" style="fill:rgb(49, 104, 142)">拡散</text>
+<text transform="translate(1145,307)" font-size="4" style="fill:rgb(31, 152, 139)">ecomonday</text>
+<text transform="translate(844,1255)" font-size="4" style="fill:rgb(170, 220, 50)">indieauthor</text>
+<text transform="translate(887,501)" font-size="4" style="fill:rgb(52, 182, 121)">kelloggsnotkilllogs</text>
+<text transform="translate(417,668)" font-size="4" style="fill:rgb(32, 163, 134)">newyearsresolution</text>
+<text transform="translate(1474,1082)" font-size="4" style="fill:rgb(46, 109, 142)">offourplates</text>
+<text transform="translate(829,644) rotate(-90)" font-size="4" style="fill:rgb(45, 113, 142)">rt2021</text>
+<text transform="translate(932,776) rotate(-90)" font-size="4" style="fill:rgb(31, 160, 136)">shareourplanet</text>
+<text transform="translate(1132,1100)" font-size="4" style="fill:rgb(108, 205, 90)">bethechange</text>
+<text transform="translate(452,592)" font-size="4" style="fill:rgb(50, 101, 142)">biobased</text>
+<text transform="translate(766,822)" font-size="4" style="fill:rgb(68, 59, 132)">boycottnutella</text>
+<text transform="translate(1219,1090)" font-size="4" style="fill:rgb(46, 179, 124)">gas</text>
+<text transform="translate(1384,1559) rotate(-90)" font-size="4" style="fill:rgb(37, 133, 142)">infoblaze</text>
+<text transform="translate(422,684)" font-size="4" style="fill:rgb(50, 182, 122)">palmoilindustry</text>
+<text transform="translate(837,524)" font-size="4" style="fill:rgb(71, 47, 125)">pygmy</text>
+<text transform="translate(1102,815)" font-size="4" style="fill:rgb(33, 145, 140)">smrtbusiness</text>
+<text transform="translate(1321,1257)" font-size="4" style="fill:rgb(192, 223, 37)">tfb</text>
+<text transform="translate(942,806)" font-size="4" style="fill:rgb(45, 112, 142)">transfat</text>
+<text transform="translate(850,1294)" font-size="4" style="fill:rgb(90, 200, 100)">unity4malaysia</text>
+<text transform="translate(699,1699)" font-size="4" style="fill:rgb(41, 121, 142)">algae</text>
+<text transform="translate(1241,1762)" font-size="4" style="fill:rgb(67, 61, 132)">biscuits</text>
+<text transform="translate(1216,1059) rotate(-90)" font-size="4" style="fill:rgb(251, 231, 35)">dumpkelloggs</text>
+<text transform="translate(1014,773)" font-size="4" style="fill:rgb(69, 53, 129)">fob</text>
+<text transform="translate(778,786)" font-size="4" style="fill:rgb(71, 45, 123)">notguilty</text>
+<text transform="translate(816,687)" font-size="4" style="fill:rgb(248, 230, 33)">ontbossing</text>
+<text transform="translate(899,915) rotate(-90)" font-size="4" style="fill:rgb(31, 161, 136)">palmoilrecipes</text>
+<text transform="translate(641,294)" font-size="4" style="fill:rgb(42, 176, 127)">sustainableagriculture</text>
+<text transform="translate(1536,987)" font-size="4" style="fill:rgb(192, 223, 37)">trump</text>
+<text transform="translate(994,409)" font-size="4" style="fill:rgb(253, 231, 37)">yum</text>
+<text transform="translate(987,912) rotate(-90)" font-size="4" style="fill:rgb(144, 215, 67)">aceitedepalmasostenible</text>
+<text transform="translate(732,1653)" font-size="4" style="fill:rgb(70, 10, 93)">apac</text>
+<text transform="translate(1026,301)" font-size="4" style="fill:rgb(205, 225, 29)">loker</text>
+<text transform="translate(486,667)" font-size="4" style="fill:rgb(72, 193, 110)">london</text>
+<text transform="translate(1401,1058)" font-size="4" style="fill:rgb(33, 143, 141)">malaysianpalmoilboard</text>
+<text transform="translate(465,554)" font-size="4" style="fill:rgb(184, 222, 41)">nopalmoi</text>
+<text transform="translate(1487,1748)" font-size="4" style="fill:rgb(67, 62, 133)">osint</text>
+<text transform="translate(979,1779)" font-size="4" style="fill:rgb(208, 225, 28)">savewildlife</text>
+<text transform="translate(823,1224) rotate(-90)" font-size="4" style="fill:rgb(71, 45, 123)">wealth</text>
+<text transform="translate(775,972)" font-size="4" style="fill:rgb(197, 224, 33)">adelaide</text>
+<text transform="translate(1341,893)" font-size="4" style="fill:rgb(231, 228, 25)">childslavery</text>
+<text transform="translate(830,804)" font-size="4" style="fill:rgb(176, 221, 47)">edodeservesobaseki</text>
+<text transform="translate(744,550) rotate(-90)" font-size="4" style="fill:rgb(31, 149, 139)">fossilfuels</text>
+<text transform="translate(887,1527)" font-size="4" style="fill:rgb(66, 63, 133)">goldennorth</text>
+<text transform="translate(845,915)" font-size="4" style="fill:rgb(103, 204, 92)">iran</text>
+<text transform="translate(1416,1038)" font-size="4" style="fill:rgb(39, 128, 142)">monoculture</text>
+<text transform="translate(783,963)" font-size="4" style="fill:rgb(53, 183, 121)">nigerian</text>
+<text transform="translate(375,684)" font-size="4" style="fill:rgb(59, 81, 139)">nomorepalmoil</text>
+<text transform="translate(1058,565)" font-size="4" style="fill:rgb(74, 193, 109)">shame</text>
+<text transform="translate(545,1729)" font-size="4" style="fill:rgb(40, 124, 142)">sumatrantiger</text>
+<text transform="translate(1371,1623)" font-size="4" style="fill:rgb(49, 102, 142)">budget2021</text>
+<text transform="translate(958,484)" font-size="4" style="fill:rgb(84, 197, 104)">data</text>
+<text transform="translate(274,315)" font-size="4" style="fill:rgb(38, 129, 142)">elitesmoments</text>
+<text transform="translate(1321,501)" font-size="4" style="fill:rgb(52, 96, 141)">ikea</text>
+<text transform="translate(1519,886)" font-size="4" style="fill:rgb(31, 161, 135)">protectforests</text>
+<text transform="translate(505,545) rotate(-90)" font-size="4" style="fill:rgb(72, 29, 111)">stockmarket</text>
+<text transform="translate(1429,933)" font-size="4" style="fill:rgb(52, 96, 141)">bank</text>
+<text transform="translate(984,808)" font-size="4" style="fill:rgb(184, 222, 41)">euston</text>
+<text transform="translate(1127,1674)" font-size="4" style="fill:rgb(70, 192, 111)">gorilla</text>
+<text transform="translate(1082,653)" font-size="4" style="fill:rgb(33, 165, 133)">hemp</text>
+<text transform="translate(997,351)" font-size="4" style="fill:rgb(54, 93, 141)">ivorycoast</text>
+<text transform="translate(1022,955)" font-size="4" style="fill:rgb(35, 138, 141)">japan</text>
+<text transform="translate(1310,1282)" font-size="4" style="fill:rgb(117, 208, 84)">opfunkill</text>
+<text transform="translate(1571,865)" font-size="4" style="fill:rgb(42, 119, 142)">savepapuaforest</text>
+<text transform="translate(1052,970)" font-size="4" style="fill:rgb(34, 167, 133)">animalsrights</text>
+<text transform="translate(841,1248)" font-size="4" style="fill:rgb(48, 105, 142)">inflation</text>
+<text transform="translate(1062,671)" font-size="4" style="fill:rgb(52, 182, 121)">jakartaglobe</text>
+<text transform="translate(1308,1378)" font-size="4" style="fill:rgb(37, 172, 130)">plasticpollution</text>
+<text transform="translate(750,371)" font-size="4" style="fill:rgb(66, 64, 134)">pome</text>
+<text transform="translate(898,966) rotate(-90)" font-size="4" style="fill:rgb(88, 199, 101)">tourism</text>
+<text transform="translate(699,1775)" font-size="4" style="fill:rgb(50, 182, 122)">bitcoin</text>
+<text transform="translate(586,493)" font-size="4" style="fill:rgb(46, 179, 124)">circulareconomy</text>
+<text transform="translate(1122,1062)" font-size="4" style="fill:rgb(244, 230, 30)">healthyfats</text>
+<text transform="translate(682,629)" font-size="4" style="fill:rgb(99, 203, 95)">mcx</text>
+<text transform="translate(577,594)" font-size="4" style="fill:rgb(40, 125, 142)">plasticfreejuly</text>
+<text transform="translate(713,245)" font-size="4" style="fill:rgb(33, 165, 133)">responsible</text>
+<text transform="translate(1307,1309)" font-size="4" style="fill:rgb(70, 192, 111)">skinnyfoodco</text>
+<text transform="translate(1238,682)" font-size="4" style="fill:rgb(234, 229, 26)">vanguardnews</text>
+<text transform="translate(1370,425) rotate(-90)" font-size="4" style="fill:rgb(32, 146, 140)">awani745</text>
+<text transform="translate(1481,1672)" font-size="4" style="fill:rgb(41, 122, 142)">caution</text>
+<text transform="translate(641,487)" font-size="4" style="fill:rgb(31, 148, 140)">consumerism</text>
+<text transform="translate(608,1732) rotate(-90)" font-size="4" style="fill:rgb(137, 213, 72)">ge13</text>
+<text transform="translate(1283,613)" font-size="4" style="fill:rgb(45, 112, 142)">mothersday</text>
+<text transform="translate(749,921)" font-size="4" style="fill:rgb(144, 215, 67)">ocean</text>
+<text transform="translate(1542,1738)" font-size="4" style="fill:rgb(137, 213, 72)">refined</text>
+<text transform="translate(1658,847)" font-size="4" style="fill:rgb(31, 153, 138)">shipping</text>
+<text transform="translate(1340,1725) rotate(-90)" font-size="4" style="fill:rgb(200, 224, 32)">upchat</text>
+<text transform="translate(1158,1641)" font-size="4" style="fill:rgb(184, 222, 41)">waste</text>
+<text transform="translate(1456,1040)" font-size="4" style="fill:rgb(108, 205, 90)">ambazonia</text>
+<text transform="translate(697,484)" font-size="4" style="fill:rgb(42, 119, 142)">biobrandstof</text>
+<text transform="translate(1420,1270)" font-size="4" style="fill:rgb(72, 31, 112)">bioeconomy</text>
+<text transform="translate(1153,628)" font-size="4" style="fill:rgb(160, 218, 57)">bioheatfuel</text>
+<text transform="translate(1177,1722)" font-size="4" style="fill:rgb(103, 204, 92)">ccp</text>
+<text transform="translate(1061,1060)" font-size="4" style="fill:rgb(248, 230, 33)">egypt</text>
+<text transform="translate(839,567)" font-size="4" style="fill:rgb(66, 64, 134)">event</text>
+<text transform="translate(892,458)" font-size="4" style="fill:rgb(64, 69, 136)">fridayfeeling</text>
+<text transform="translate(1376,1571)" font-size="4" style="fill:rgb(46, 111, 142)">gluten</text>
+<text transform="translate(897,1317)" font-size="4" style="fill:rgb(223, 227, 24)">hair</text>
+<text transform="translate(1047,642)" font-size="4" style="fill:rgb(31, 158, 137)">icis</text>
+<text transform="translate(433,338)" font-size="4" style="fill:rgb(30, 156, 137)">joynews</text>
+<text transform="translate(334,324)" font-size="4" style="fill:rgb(44, 177, 126)">london_asia_forex</text>
+<text transform="translate(1245,261)" font-size="4" style="fill:rgb(67, 61, 132)">orangutangs</text>
+<text transform="translate(1463,1066)" font-size="4" style="fill:rgb(36, 134, 142)">palmtree</text>
+<text transform="translate(979,1572)" font-size="4" style="fill:rgb(35, 136, 142)">tragic</text>
+<text transform="translate(1216,239)" font-size="4" style="fill:rgb(162, 218, 55)">crowdfunding</text>
+<text transform="translate(1258,651) rotate(-90)" font-size="4" style="fill:rgb(67, 61, 132)">footprint</text>
+<text transform="translate(1522,1764)" font-size="4" style="fill:rgb(38, 173, 129)">haircare</text>
+<text transform="translate(1144,1739)" font-size="4" style="fill:rgb(54, 92, 141)">investor</text>
+<text transform="translate(1234,706)" font-size="4" style="fill:rgb(70, 48, 126)">oxford</text>
+<text transform="translate(510,206)" font-size="4" style="fill:rgb(152, 216, 62)">photographycompetition</text>
+<text transform="translate(1145,552)" font-size="4" style="fill:rgb(115, 208, 86)">plattsmm</text>
+<text transform="translate(1566,977)" font-size="4" style="fill:rgb(72, 35, 116)">wearenestlé</text>
+<text transform="translate(926,1539)" font-size="4" style="fill:rgb(221, 227, 24)">beritasawit</text>
+<text transform="translate(829,1718)" font-size="4" style="fill:rgb(41, 121, 142)">datascience</text>
+<text transform="translate(1143,569)" font-size="4" style="fill:rgb(36, 135, 142)">dd0s</text>
+<text transform="translate(1308,1478)" font-size="4" style="fill:rgb(63, 71, 136)">equity</text>
+<text transform="translate(1426,456)" font-size="4" style="fill:rgb(45, 178, 125)">givingtuesday</text>
+<text transform="translate(1551,1003)" font-size="4" style="fill:rgb(39, 127, 142)">isleofwight</text>
+<text transform="translate(1040,760)" font-size="4" style="fill:rgb(124, 210, 80)">makeadifference</text>
+<text transform="translate(354,668)" font-size="4" style="fill:rgb(65, 66, 135)">orangutanawarenessweek</text>
+<text transform="translate(864,1175)" font-size="4" style="fill:rgb(44, 115, 142)">orangutanjungleschool</text>
+<text transform="translate(1359,1607) rotate(-90)" font-size="4" style="fill:rgb(117, 208, 84)">writer</text>
+<text transform="translate(1385,1592) rotate(-90)" font-size="4" style="fill:rgb(72, 35, 116)">analysis</text>
+<text transform="translate(1081,1048)" font-size="4" style="fill:rgb(30, 157, 137)">colgate</text>
+<text transform="translate(965,1103) rotate(-90)" font-size="4" style="fill:rgb(45, 113, 142)">internationalprimateday</text>
+<text transform="translate(473,344)" font-size="4" style="fill:rgb(72, 40, 120)">labourrights</text>
+<text transform="translate(636,1634)" font-size="4" style="fill:rgb(57, 86, 140)">latestnews</text>
+<text transform="translate(1232,453)" font-size="4" style="fill:rgb(30, 157, 137)">oreos</text>
+<text transform="translate(1020,655) rotate(-90)" font-size="4" style="fill:rgb(40, 125, 142)">salt</text>
+<text transform="translate(1361,873)" font-size="4" style="fill:rgb(31, 149, 139)">veganfood</text>
+<text transform="translate(1045,1148)" font-size="4" style="fill:rgb(127, 211, 78)">vitamin</text>
+<text transform="translate(1682,808)" font-size="4" style="fill:rgb(32, 147, 140)">worldchocolateday</text>
+<text transform="translate(537,665)" font-size="4" style="fill:rgb(53, 183, 121)">wwf50</text>
+<text transform="translate(1525,810)" font-size="4" style="fill:rgb(45, 113, 142)">youaintafricanif</text>
+<text transform="translate(1485,1650)" font-size="4" style="fill:rgb(41, 121, 142)">cpg</text>
+<text transform="translate(1418,847)" font-size="4" style="fill:rgb(44, 115, 142)">foodsafety</text>
+<text transform="translate(866,980)" font-size="4" style="fill:rgb(72, 22, 104)">french</text>
+<text transform="translate(764,260)" font-size="4" style="fill:rgb(99, 203, 95)">info</text>
+<text transform="translate(1245,834)" font-size="4" style="fill:rgb(37, 132, 142)">ingredients</text>
+<text transform="translate(1183,1157)" font-size="4" style="fill:rgb(69, 55, 129)">lowongankerja</text>
+<text transform="translate(702,680)" font-size="4" style="fill:rgb(71, 19, 101)">stopdeepseamining</text>
+<text transform="translate(519,1699)" font-size="4" style="fill:rgb(69, 55, 129)">tropicalforests</text>
+<text transform="translate(649,571)" font-size="4" style="fill:rgb(57, 86, 140)">署名</text>
+<text transform="translate(1265,563)" font-size="4" style="fill:rgb(119, 209, 83)">agricultura</text>
+<text transform="translate(1534,1012)" font-size="4" style="fill:rgb(41, 175, 127)">article</text>
+<text transform="translate(1065,746)" font-size="4" style="fill:rgb(244, 230, 30)">biodieselgate</text>
+<text transform="translate(566,587)" font-size="4" style="fill:rgb(117, 208, 84)">ecotiptue</text>
+<text transform="translate(1037,921)" font-size="4" style="fill:rgb(35, 136, 142)">italy</text>
+<text transform="translate(1382,1697)" font-size="4" style="fill:rgb(59, 82, 139)">justiciaya</text>
+<text transform="translate(1612,1747)" font-size="4" style="fill:rgb(115, 208, 86)">kiddrica</text>
+<text transform="translate(1094,282)" font-size="4" style="fill:rgb(49, 103, 142)">lobbyists</text>
+<text transform="translate(586,261)" font-size="4" style="fill:rgb(197, 224, 33)">orang</text>
+<text transform="translate(1502,896)" font-size="4" style="fill:rgb(43, 116, 142)">viceonhbo</text>
+<text transform="translate(1043,946)" font-size="4" style="fill:rgb(178, 221, 45)">bestdeals</text>
+<text transform="translate(1340,1585)" font-size="4" style="fill:rgb(41, 122, 142)">educate</text>
+<text transform="translate(834,1694)" font-size="4" style="fill:rgb(94, 201, 98)">fastfood</text>
+<text transform="translate(809,1660)" font-size="4" style="fill:rgb(72, 29, 111)">greenliving</text>
+<text transform="translate(793,414)" font-size="4" style="fill:rgb(31, 160, 136)">historyclass</text>
+<text transform="translate(1014,1650) rotate(-90)" font-size="4" style="fill:rgb(71, 45, 123)">protectforestsprotectlife</text>
+<text transform="translate(1049,1623)" font-size="4" style="fill:rgb(61, 78, 138)">rights</text>
+<text transform="translate(1287,780)" font-size="4" style="fill:rgb(49, 102, 142)">russian</text>
+<text transform="translate(961,566) rotate(-90)" font-size="4" style="fill:rgb(55, 184, 120)">sawituntuksemua</text>
+<text transform="translate(582,527)" font-size="4" style="fill:rgb(44, 113, 142)">sinarmas</text>
+<text transform="translate(1079,895)" font-size="4" style="fill:rgb(149, 216, 64)">truth</text>
+<text transform="translate(1051,764)" font-size="4" style="fill:rgb(72, 35, 116)">wpppc2021</text>
+<text transform="translate(1351,878)" font-size="4" style="fill:rgb(67, 61, 132)">doyouknow</text>
+<text transform="translate(1288,903)" font-size="4" style="fill:rgb(229, 228, 25)">fta</text>
+<text transform="translate(849,878)" font-size="4" style="fill:rgb(170, 220, 50)">holisticmoms</text>
+<text transform="translate(1110,581)" font-size="4" style="fill:rgb(31, 154, 138)">kerry</text>
+<text transform="translate(809,1638)" font-size="4" style="fill:rgb(46, 179, 124)">mpocindia</text>
+<text transform="translate(1223,664)" font-size="4" style="fill:rgb(46, 110, 142)">palawan</text>
+<text transform="translate(1501,873)" font-size="4" style="fill:rgb(67, 62, 133)">palmoilblogs</text>
+<text transform="translate(1426,1126)" font-size="4" style="fill:rgb(71, 46, 124)">sindh</text>
+<text transform="translate(873,430)" font-size="4" style="fill:rgb(60, 79, 138)">sri</text>
+<text transform="translate(1309,532)" font-size="4" style="fill:rgb(71, 42, 122)">thursdayvibes</text>
+<text transform="translate(709,317)" font-size="4" style="fill:rgb(31, 150, 139)">unfao</text>
+<text transform="translate(1593,1092)" font-size="4" style="fill:rgb(50, 101, 142)">cleanenergyeu</text>
+<text transform="translate(970,1376) rotate(-90)" font-size="4" style="fill:rgb(68, 2, 86)">dimensionalfundadvisors</text>
+<text transform="translate(646,370)" font-size="4" style="fill:rgb(58, 186, 118)">drcongo</text>
+<text transform="translate(658,308)" font-size="4" style="fill:rgb(37, 172, 130)">gapki</text>
+<text transform="translate(1129,1792)" font-size="4" style="fill:rgb(155, 217, 60)">mobilepunch</text>
+<text transform="translate(956,1394) rotate(-90)" font-size="4" style="fill:rgb(72, 22, 104)">modieastindiacompany</text>
+<text transform="translate(1517,864)" font-size="4" style="fill:rgb(216, 226, 25)">naspon</text>
+<text transform="translate(1598,1050)" font-size="4" style="fill:rgb(72, 29, 111)">rtr09</text>
+<text transform="translate(873,1018)" font-size="4" style="fill:rgb(64, 69, 136)">action</text>
+<text transform="translate(1397,935)" font-size="4" style="fill:rgb(236, 229, 27)">awareness</text>
+<text transform="translate(1209,1225)" font-size="4" style="fill:rgb(72, 23, 105)">feronia</text>
+<text transform="translate(660,386)" font-size="4" style="fill:rgb(99, 203, 95)">fightgreenwashing</text>
+<text transform="translate(977,1544)" font-size="4" style="fill:rgb(115, 208, 86)">freefrom</text>
+<text transform="translate(359,240)" font-size="4" style="fill:rgb(66, 63, 133)">giftidea</text>
+<text transform="translate(1371,1095)" font-size="4" style="fill:rgb(62, 74, 137)">greatape</text>
+<text transform="translate(1181,1231)" font-size="4" style="fill:rgb(31, 150, 139)">indiaisgreat</text>
+<text transform="translate(886,1567)" font-size="4" style="fill:rgb(44, 113, 142)">internetofthings</text>
+<text transform="translate(644,1639)" font-size="4" style="fill:rgb(132, 212, 75)">jokowi</text>
+<text transform="translate(1239,741)" font-size="4" style="fill:rgb(39, 126, 142)">justsaying</text>
+<text transform="translate(1559,1077)" font-size="4" style="fill:rgb(70, 192, 111)">naturalskincare</text>
+<text transform="translate(916,971)" font-size="4" style="fill:rgb(64, 189, 114)">noplanetb</text>
+<text transform="translate(1034,838)" font-size="4" style="fill:rgb(221, 227, 24)">oceans</text>
+<text transform="translate(357,290)" font-size="4" style="fill:rgb(31, 151, 139)">outlook</text>
+<text transform="translate(881,855)" font-size="4" style="fill:rgb(234, 229, 26)">yummy</text>
+<text transform="translate(304,262)" font-size="4" style="fill:rgb(30, 157, 137)">brazilianamazon</text>
+<text transform="translate(1085,444)" font-size="4" style="fill:rgb(72, 38, 119)">coop</text>
+<text transform="translate(1127,1038)" font-size="4" style="fill:rgb(40, 124, 142)">corpgov</text>
+<text transform="translate(993,1626) rotate(-90)" font-size="4" style="fill:rgb(46, 109, 142)">dairyfree</text>
+<text transform="translate(1227,422)" font-size="4" style="fill:rgb(105, 205, 91)">epoc2015</text>
+<text transform="translate(1276,1129)" font-size="4" style="fill:rgb(31, 161, 135)">indonesianway</text>
+<text transform="translate(1679,1086)" font-size="4" style="fill:rgb(64, 70, 136)">mondelez</text>
+<text transform="translate(899,1405)" font-size="4" style="fill:rgb(31, 151, 139)">nuts</text>
+<text transform="translate(881,1082)" font-size="4" style="fill:rgb(184, 222, 41)">plastic</text>
+<text transform="translate(822,592)" font-size="4" style="fill:rgb(48, 106, 142)">pointers</text>
+<text transform="translate(877,1734) rotate(-90)" font-size="4" style="fill:rgb(57, 86, 140)">returnkashmirichildren</text>
+<text transform="translate(1079,1626)" font-size="4" style="fill:rgb(72, 26, 108)">spod2021</text>
+<text transform="translate(960,575)" font-size="4" style="fill:rgb(139, 214, 70)">app</text>
+<text transform="translate(872,578) rotate(-90)" font-size="4" style="fill:rgb(68, 58, 131)">bawumialied</text>
+<text transform="translate(1130,551) rotate(-90)" font-size="4" style="fill:rgb(72, 38, 119)">buletinfakta</text>
+<text transform="translate(1144,1616) rotate(-90)" font-size="4" style="fill:rgb(115, 208, 86)">chesterhour</text>
+<text transform="translate(1055,779)" font-size="4" style="fill:rgb(36, 170, 131)">dearerica</text>
+<text transform="translate(1598,1055)" font-size="4" style="fill:rgb(49, 103, 142)">devastation</text>
+<text transform="translate(838,1155)" font-size="4" style="fill:rgb(53, 183, 121)">expowest</text>
+<text transform="translate(1272,1162)" font-size="4" style="fill:rgb(72, 23, 105)">forestsarelife</text>
+<text transform="translate(916,636)" font-size="4" style="fill:rgb(71, 42, 122)">globalsouth</text>
+<text transform="translate(853,1084) rotate(-90)" font-size="4" style="fill:rgb(236, 229, 27)">habitatdestruction</text>
+<text transform="translate(1081,986)" font-size="4" style="fill:rgb(53, 183, 121)">kgmpalm</text>
+<text transform="translate(978,648) rotate(-90)" font-size="4" style="fill:rgb(178, 221, 45)">lawankampanyenegatifsawit</text>
+<text transform="translate(893,1647)" font-size="4" style="fill:rgb(70, 11, 94)">magnum</text>
+<text transform="translate(1378,748)" font-size="4" style="fill:rgb(71, 17, 100)">milk</text>
+<text transform="translate(842,471)" font-size="4" style="fill:rgb(70, 50, 126)">newyear</text>
+<text transform="translate(1352,1195)" font-size="4" style="fill:rgb(40, 124, 142)">oilandgas</text>
+<text transform="translate(435,565)" font-size="4" style="fill:rgb(72, 36, 117)">oilseeds</text>
+<text transform="translate(339,697)" font-size="4" style="fill:rgb(200, 224, 32)">photography</text>
+<text transform="translate(631,527)" font-size="4" style="fill:rgb(71, 19, 101)">rbdoil</text>
+<text transform="translate(974,1744)" font-size="4" style="fill:rgb(57, 85, 140)">spreadtheword</text>
+<text transform="translate(1125,1727)" font-size="4" style="fill:rgb(33, 143, 141)">sustliving</text>
+<text transform="translate(528,1715)" font-size="4" style="fill:rgb(157, 217, 59)">ape</text>
+<text transform="translate(1590,1005)" font-size="4" style="fill:rgb(55, 90, 140)">artistsontwitter</text>
+<text transform="translate(1199,1757)" font-size="4" style="fill:rgb(72, 41, 121)">censorship</text>
+<text transform="translate(969,1697)" font-size="4" style="fill:rgb(37, 131, 142)">chocolates</text>
+<text transform="translate(725,1678)" font-size="4" style="fill:rgb(50, 101, 142)">crops</text>
+<text transform="translate(1200,929)" font-size="4" style="fill:rgb(32, 164, 134)">foodfraud</text>
+<text transform="translate(1109,846)" font-size="4" style="fill:rgb(200, 224, 32)">giftideas</text>
+<text transform="translate(1293,1690)" font-size="4" style="fill:rgb(31, 159, 136)">openfollow</text>
+<text transform="translate(1543,845)" font-size="4" style="fill:rgb(69, 55, 129)">peanut</text>
+<text transform="translate(899,1038)" font-size="4" style="fill:rgb(38, 130, 142)">pesticides</text>
+<text transform="translate(1380,495)" font-size="4" style="fill:rgb(31, 160, 136)">realface</text>
+<text transform="translate(897,730)" font-size="4" style="fill:rgb(39, 127, 142)">rsponext</text>
+<text transform="translate(1322,1272)" font-size="4" style="fill:rgb(31, 150, 139)">urangutan</text>
+<text transform="translate(1551,1060) rotate(-90)" font-size="4" style="fill:rgb(122, 209, 81)">wondersofthemonsoon</text>
+<text transform="translate(1319,1434)" font-size="4" style="fill:rgb(49, 181, 123)">yay</text>
+<text transform="translate(889,1131)" font-size="4" style="fill:rgb(58, 83, 139)">benefits</text>
+<text transform="translate(1269,518)" font-size="4" style="fill:rgb(65, 66, 135)">gmb</text>
+<text transform="translate(1137,733)" font-size="4" style="fill:rgb(72, 27, 109)">huile</text>
+<text transform="translate(783,931)" font-size="4" style="fill:rgb(76, 194, 108)">newscientist</text>
+<text transform="translate(846,326)" font-size="4" style="fill:rgb(63, 71, 136)">resinart</text>
+<text transform="translate(925,1250)" font-size="4" style="fill:rgb(90, 200, 100)">schools</text>
+<text transform="translate(506,1796)" font-size="4" style="fill:rgb(55, 91, 141)">shoplocal</text>
+<text transform="translate(1391,1594)" font-size="4" style="fill:rgb(108, 205, 90)">skin</text>
+<text transform="translate(1455,1694)" font-size="4" style="fill:rgb(221, 227, 24)">trending</text>
+<text transform="translate(697,1723)" font-size="4" style="fill:rgb(53, 94, 141)">uncategorized</text>
+<text transform="translate(776,1773) rotate(-90)" font-size="4" style="fill:rgb(38, 129, 142)">vegoil</text>
+<text transform="translate(1303,1003)" font-size="4" style="fill:rgb(62, 74, 137)">ecological</text>
+<text transform="translate(941,761)" font-size="4" style="fill:rgb(42, 120, 142)">foodporn</text>
+<text transform="translate(1160,1753)" font-size="4" style="fill:rgb(55, 90, 140)">gamification</text>
+<text transform="translate(927,1102)" font-size="4" style="fill:rgb(48, 106, 142)">gender</text>
+<text transform="translate(1225,633)" font-size="4" style="fill:rgb(46, 111, 142)">labelme</text>
+<text transform="translate(1047,551)" font-size="4" style="fill:rgb(82, 197, 105)">mustread</text>
+<text transform="translate(836,1522) rotate(-90)" font-size="4" style="fill:rgb(72, 36, 117)">no2palmoil</text>
+<text transform="translate(1356,828)" font-size="4" style="fill:rgb(37, 171, 130)">occupyfarms</text>
+<text transform="translate(1117,1756)" font-size="4" style="fill:rgb(34, 140, 141)">socent</text>
+<text transform="translate(1192,634)" font-size="4" style="fill:rgb(241, 229, 29)">thatta</text>
+<text transform="translate(1398,1432) rotate(-90)" font-size="4" style="fill:rgb(241, 229, 29)">chemicals</text>
+<text transform="translate(1356,1571) rotate(-90)" font-size="4" style="fill:rgb(50, 100, 142)">earthstropicalislands</text>
+<text transform="translate(894,787) rotate(-90)" font-size="4" style="fill:rgb(92, 200, 99)">environmentaldefenders</text>
+<text transform="translate(1211,1654) rotate(-90)" font-size="4" style="fill:rgb(165, 219, 54)">ericaunitesafrica</text>
+<text transform="translate(1458,874)" font-size="4" style="fill:rgb(57, 86, 140)">foodforthought</text>
+<text transform="translate(917,420)" font-size="4" style="fill:rgb(41, 175, 127)">handmadehour</text>
+<text transform="translate(762,524) rotate(-90)" font-size="4" style="fill:rgb(38, 129, 142)">kangaroos</text>
+<text transform="translate(1317,1529)" font-size="4" style="fill:rgb(39, 126, 142)">labelling</text>
+<text transform="translate(745,848)" font-size="4" style="fill:rgb(115, 208, 86)">lettruthwin</text>
+<text transform="translate(1261,989)" font-size="4" style="fill:rgb(64, 69, 136)">maritime</text>
+<text transform="translate(1122,820)" font-size="4" style="fill:rgb(58, 83, 139)">media</text>
+<text transform="translate(1264,869)" font-size="4" style="fill:rgb(55, 184, 120)">nigerdelta</text>
+<text transform="translate(1146,1613)" font-size="4" style="fill:rgb(149, 216, 64)">rape</text>
+<text transform="translate(1227,292)" font-size="4" style="fill:rgb(51, 99, 141)">shampoobar</text>
+<text transform="translate(1625,788)" font-size="4" style="fill:rgb(181, 222, 43)">silentslaughter</text>
+<text transform="translate(303,320)" font-size="4" style="fill:rgb(66, 64, 134)">stopptsil</text>
+<text transform="translate(890,1492)" font-size="4" style="fill:rgb(122, 209, 81)">vr</text>
+<text transform="translate(904,1594)" font-size="4" style="fill:rgb(129, 211, 77)">agri</text>
+<text transform="translate(1109,1641)" font-size="4" style="fill:rgb(70, 52, 128)">agricultural</text>
+<text transform="translate(1121,220)" font-size="4" style="fill:rgb(64, 69, 136)">babyformula</text>
+<text transform="translate(1400,821) rotate(-90)" font-size="4" style="fill:rgb(33, 166, 133)">bestfoodcomboofalltime</text>
+<text transform="translate(1150,750)" font-size="4" style="fill:rgb(66, 64, 134)">birds</text>
+<text transform="translate(1229,1121)" font-size="4" style="fill:rgb(71, 13, 96)">carotenoids</text>
+<text transform="translate(1105,1741) rotate(-90)" font-size="4" style="fill:rgb(42, 119, 142)">certifiedpalmoilfree</text>
+<text transform="translate(1199,1086)" font-size="4" style="fill:rgb(70, 192, 111)">cheeze</text>
+<text transform="translate(443,578)" font-size="4" style="fill:rgb(72, 32, 113)">fx</text>
+<text transform="translate(757,412)" font-size="4" style="fill:rgb(31, 158, 137)">junkfood</text>
+<text transform="translate(880,1744)" font-size="4" style="fill:rgb(110, 206, 88)">monkeynews</text>
+<text transform="translate(1195,638)" font-size="4" style="fill:rgb(46, 111, 142)">panorama</text>
+<text transform="translate(1398,1112)" font-size="4" style="fill:rgb(103, 204, 92)">saveourforests</text>
+<text transform="translate(546,1676)" font-size="4" style="fill:rgb(70, 8, 92)">sdg</text>
+<text transform="translate(851,1268)" font-size="4" style="fill:rgb(70, 52, 128)">themomentum</text>
+<text transform="translate(930,1228) rotate(-90)" font-size="4" style="fill:rgb(71, 46, 124)">tidalsurge</text>
+<text transform="translate(872,1074) rotate(-90)" font-size="4" style="fill:rgb(72, 23, 105)">bestseller</text>
+<text transform="translate(1035,1726)" font-size="4" style="fill:rgb(45, 113, 142)">covid</text>
+<text transform="translate(839,538)" font-size="4" style="fill:rgb(221, 227, 24)">eggs</text>
+<text transform="translate(1215,728)" font-size="4" style="fill:rgb(72, 41, 121)">epoc2018</text>
+<text transform="translate(1294,444)" font-size="4" style="fill:rgb(55, 184, 120)">factcheck</text>
+<text transform="translate(335,723)" font-size="4" style="fill:rgb(202, 225, 31)">learning</text>
+<text transform="translate(1040,396)" font-size="4" style="fill:rgb(33, 142, 141)">nolandnolife</text>
+<text transform="translate(793,1717)" font-size="4" style="fill:rgb(105, 205, 91)">radd</text>
+<text transform="translate(1236,822)" font-size="4" style="fill:rgb(47, 108, 142)">skinnypop</text>
+<text transform="translate(1067,311)" font-size="4" style="fill:rgb(208, 225, 28)">wef20</text>
+<text transform="translate(730,323)" font-size="4" style="fill:rgb(42, 118, 142)">askgsb</text>
+<text transform="translate(650,1743)" font-size="4" style="fill:rgb(42, 176, 127)">bath</text>
+<text transform="translate(385,712)" font-size="4" style="fill:rgb(137, 213, 72)">communities</text>
+<text transform="translate(1306,1453)" font-size="4" style="fill:rgb(53, 94, 141)">deforestación</text>
+<text transform="translate(1023,745)" font-size="4" style="fill:rgb(189, 223, 38)">digital</text>
+<text transform="translate(1180,1063)" font-size="4" style="fill:rgb(216, 226, 25)">interactive</text>
+<text transform="translate(1151,341)" font-size="4" style="fill:rgb(39, 127, 142)">international</text>
+</svg>
