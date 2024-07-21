@@ -49,17 +49,26 @@ They were tested with R version 4.4.0 (2024-04-24) -- "Puppy Cup".
 
 
 ## How to cite
-E. Candellone, A. Aleta, H.F. de Arruda, E. Meijaard, Y. Moreno. Understanding the Vegetable Oil Debate and Its Implications for Sustainability through Social Media, 2023.
+Candellone, E., Aleta, A., Ferraz de Arruda, H. et al. Characteristics of the vegetable oil debate in social-media and its implications for sustainability. Commun Earth Environ 5, 391 (2024). https://doi.org/10.1038/s43247-024-01545-x
 
 ```
-@misc{candellone2023understanding,
-      title={Understanding the Vegetable Oil Debate and Its Implications for Sustainability through Social Media}, 
-      author={Elena Candellone and Alberto Aleta and Henrique Ferraz de Arruda and Erik Meijaard and Yamir Moreno},
-      year={2023},
-      eprint={2308.07108},
-      archivePrefix={arXiv},
-      primaryClass={physics.soc-ph},
-      doi={10.48550/arXiv.2308.07108}
+@Article{Candellone2024,
+author={Candellone, Elena
+and Aleta, Alberto
+and Ferraz de Arruda, Henrique
+and Meijaard, Erik
+and Moreno, Yamir},
+title={Characteristics of the vegetable oil debate in social-media and its implications for sustainability},
+journal={Communications Earth {\&} Environment},
+year={2024},
+month={Jul},
+day={21},
+volume={5},
+number={1},
+pages={391},
+issn={2662-4435},
+doi={10.1038/s43247-024-01545-x},
+url={https://doi.org/10.1038/s43247-024-01545-x}
 }
 ```
 
